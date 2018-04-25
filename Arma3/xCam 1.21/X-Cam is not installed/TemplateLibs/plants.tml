@@ -1,0 +1,3204 @@
+<?xml version="1.0" ?>
+<Library name="plants" shape="rectangle" default_fill="-16711936" default_outline="-1" tex="0">
+    <Template>
+        <Name>Akat02S</Name>
+        <File>ca\plants\akat02s.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1896956204</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.765934</BBRadius>
+        <BBHScale>1.109941</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.075258" Y="-0.539638" Z="-3.875846" />
+        <BoundingMax X="5.504551" Y="8.335523" Z="5.656023" />
+        <BoundingCenter X="0.214646" Y="3.897943" Z="0.890088" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>banana_1</Name>
+        <File>ca\plants\banana_1.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>79485943</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.195857</BBRadius>
+        <BBHScale>1.027282</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.404217" Y="-0.094815" Z="-2.362313" />
+        <BoundingMax X="2.107313" Y="4.828094" Z="2.029400" />
+        <BoundingCenter X="-0.148452" Y="2.366639" Z="-0.166456" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>banana_2</Name>
+        <File>ca\plants\banana_2.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>79485944</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.195857</BBRadius>
+        <BBHScale>1.027282</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.404217" Y="-0.252608" Z="-2.362313" />
+        <BoundingMax X="2.107313" Y="4.828094" Z="2.029400" />
+        <BoundingCenter X="-0.148452" Y="2.287743" Z="-0.166456" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>banana_3</Name>
+        <File>ca\plants\banana_3.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>79485945</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.994818</BBRadius>
+        <BBHScale>1.024088</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.080372" Y="-0.245779" Z="-1.925020" />
+        <BoundingMax X="2.005365" Y="4.525818" Z="2.064616" />
+        <BoundingCenter X="-0.037503" Y="2.140019" Z="0.069798" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>banana_4</Name>
+        <File>ca\plants\banana_4.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>79485946</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.681956</BBRadius>
+        <BBHScale>1.072563</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.855220" Y="-0.106125" Z="-2.493572" />
+        <BoundingMax X="2.897912" Y="4.912663" Z="2.870340" />
+        <BoundingCenter X="0.021346" Y="2.403269" Z="0.188384" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bodlak_group</Name>
+        <File>ca\plants\bodlak_group.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1594985121</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.496441</BBRadius>
+        <BBHScale>0.878713</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.648904" Y="-0.067439" Z="-0.351953" />
+        <BoundingMax X="0.223555" Y="1.026598" Z="0.640929" />
+        <BoundingCenter X="-0.212674" Y="0.479580" Z="0.144488" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bolsevnik_group</Name>
+        <File>ca\plants\bolsevnik_group.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1877906037</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.942554</BBRadius>
+        <BBHScale>1.294210</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.163915" Y="-0.162164" Z="-1.181897" />
+        <BoundingMax X="1.275810" Y="1.653762" Z="0.703211" />
+        <BoundingCenter X="0.055948" Y="0.745799" Z="-0.239343" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>clutter_babka</Name>
+        <File>ca\plants\clutter_babka.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1222972915</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.090658</BBRadius>
+        <BBHScale>0.937932</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.111676" Y="-0.012073" Z="-0.033061" />
+        <BoundingMax X="0.058386" Y="0.089492" Z="0.148256" />
+        <BoundingCenter X="-0.026645" Y="0.038709" Z="0.057598" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>clutter_flower_mix</Name>
+        <File>ca\plants\clutter_flower_mix.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1595547618</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.920775</BBRadius>
+        <BBHScale>1.086327</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.148932" Y="-0.057165" Z="-0.717522" />
+        <BoundingMax X="0.851593" Y="0.832578" Z="1.124028" />
+        <BoundingCenter X="-0.148669" Y="0.387706" Z="0.203253" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>clutter_forest_fern</Name>
+        <File>ca\plants\clutter_forest_fern.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>700908023</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.113654</BBRadius>
+        <BBHScale>0.913633</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.816952" Y="-0.031716" Z="-3.499907" />
+        <BoundingMax X="3.045256" Y="0.598641" Z="0.727400" />
+        <BoundingCenter X="1.114152" Y="0.283463" Z="-1.386254" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>clutter_grass_desert</Name>
+        <File>ca\plants\clutter_grass_desert.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1843695076</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.002465</BBRadius>
+        <BBHScale>0.932479</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.911528" Y="-0.015751" Z="-0.985313" />
+        <BoundingMax X="0.958029" Y="0.686032" Z="1.019618" />
+        <BoundingCenter X="0.023251" Y="0.335140" Z="0.017152" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>clutter_grass_flowers</Name>
+        <File>ca\plants\clutter_grass_flowers.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>269473961</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.246461</BBRadius>
+        <BBHScale>0.803771</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.030015" Y="-0.177517" Z="-1.345415" />
+        <BoundingMax X="0.973724" Y="0.886928" Z="1.147507" />
+        <BoundingCenter X="-0.028145" Y="0.354705" Z="-0.098954" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>clutter_grass_general</Name>
+        <File>ca\plants\clutter_grass_general.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-940386471</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.615663</BBRadius>
+        <BBHScale>1.175576</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.792208" Y="0.000000" Z="-1.488370" />
+        <BoundingMax X="2.006461" Y="1.124708" Z="1.742957" />
+        <BoundingCenter X="0.107126" Y="0.562354" Z="0.127293" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>clutter_grass_long</Name>
+        <File>ca\plants\clutter_grass_long.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1964006869</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.043006</BBRadius>
+        <BBHScale>1.290739</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.687690" Y="-0.027553" Z="-1.125402" />
+        <BoundingMax X="1.004805" Y="1.344623" Z="0.960609" />
+        <BoundingCenter X="-0.341443" Y="0.658535" Z="-0.082396" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>clutter_grass_sevenbaeuty</Name>
+        <File>ca\plants\clutter_grass_sevenbaeuty.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2038787854</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.282275</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.282275" Y="0.000000" Z="-1.282275" />
+        <BoundingMax X="1.282275" Y="0.186177" Z="1.282275" />
+        <BoundingCenter X="0.000000" Y="0.093088" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>clutter_grass_short</Name>
+        <File>ca\plants\clutter_grass_short.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1769201421</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.455560</BBRadius>
+        <BBHScale>0.798694</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.383828" Y="-0.054807" Z="-0.463199" />
+        <BoundingMax X="0.343878" Y="0.889499" Z="0.447920" />
+        <BoundingCenter X="-0.019975" Y="0.417346" Z="-0.007640" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>clutter_grass_yellow</Name>
+        <File>ca\plants\clutter_grass_yellow.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-45597021</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.282275</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.282275" Y="0.000000" Z="-1.282275" />
+        <BoundingMax X="1.282275" Y="0.186177" Z="1.282275" />
+        <BoundingCenter X="0.000000" Y="0.093088" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>clutter_horcak</Name>
+        <File>ca\plants\clutter_horcak.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>650604712</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.151833</BBRadius>
+        <BBHScale>2.780250</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.440342" Y="-0.007558" Z="0.000000" />
+        <BoundingMax X="0.403925" Y="0.075850" Z="0.303666" />
+        <BoundingCenter X="-0.018209" Y="0.034146" Z="0.151833" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>clutter_mochomurka</Name>
+        <File>ca\plants\clutter_mochomurka.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1315326750</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.069747</BBRadius>
+        <BBHScale>0.912590</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.057278" Y="-0.001585" Z="0.155544" />
+        <BoundingMax X="0.070022" Y="0.151861" Z="0.295038" />
+        <BoundingCenter X="0.006372" Y="0.075138" Z="0.225291" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>clutter_muchomurka</Name>
+        <File>ca\plants\clutter_muchomurka.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1090567972</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.147519</BBRadius>
+        <BBHScale>0.431471</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.057278" Y="-0.001585" Z="0.000000" />
+        <BoundingMax X="0.070022" Y="0.151861" Z="0.295038" />
+        <BoundingCenter X="0.006372" Y="0.075138" Z="0.147519" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>clutter_prasivky</Name>
+        <File>ca\plants\clutter_prasivky.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2018001835</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.838041</BBRadius>
+        <BBHScale>0.988957</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.120144" Y="-0.014704" Z="-0.507952" />
+        <BoundingMax X="0.537429" Y="0.228527" Z="1.168129" />
+        <BoundingCenter X="-0.291357" Y="0.106911" Z="0.330088" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>clutter_smetanka</Name>
+        <File>ca\plants\clutter_smetanka.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1720519410</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.960813</BBRadius>
+        <BBHScale>0.994161</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.107304" Y="-0.057165" Z="-0.695806" />
+        <BoundingMax X="0.803101" Y="0.732482" Z="1.225819" />
+        <BoundingCenter X="-0.152102" Y="0.337658" Z="0.265007" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>clutter_trava_dlouha</Name>
+        <File>ca\plants\clutter_trava_dlouha.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1133250494</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.923372</BBRadius>
+        <BBHScale>0.899303</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.748673" Y="-0.013582" Z="-0.916332" />
+        <BoundingMax X="0.912110" Y="0.348231" Z="0.930412" />
+        <BoundingCenter X="0.081718" Y="0.167325" Z="0.007040" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>clutter_white_flower</Name>
+        <File>ca\plants\clutter_white_flower.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>117569207</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.752999</BBRadius>
+        <BBHScale>1.163338</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.900391" Y="-0.045174" Z="-0.717522" />
+        <BoundingMax X="0.851593" Y="0.832578" Z="0.788476" />
+        <BoundingCenter X="-0.024399" Y="0.393702" Z="0.035477" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>DD_borovice</Name>
+        <File>ca\plants\dd_borovice.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-183545186</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.794166</BBRadius>
+        <BBHScale>1.015554</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.705790" Y="-0.511754" Z="-4.395747" />
+        <BoundingMax X="4.031675" Y="17.095488" Z="5.192585" />
+        <BoundingCenter X="-0.837057" Y="8.291866" Z="0.398419" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>DD_borovice02</Name>
+        <File>ca\plants\dd_borovice02.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>209973152</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.484211</BBRadius>
+        <BBHScale>0.852246</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.160124" Y="-0.237652" Z="-3.992652" />
+        <BoundingMax X="3.483175" Y="17.549068" Z="4.975770" />
+        <BoundingCenter X="-0.338474" Y="8.655708" Z="0.491559" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>DD_bush01</Name>
+        <File>ca\plants\dd_bush01.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2138240168</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.446498</BBRadius>
+        <BBHScale>1.168858</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.571637" Y="-0.006791" Z="-1.838109" />
+        <BoundingMax X="1.809865" Y="2.836443" Z="1.054886" />
+        <BoundingCenter X="0.119114" Y="1.414826" Z="-0.391612" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>DD_bush02</Name>
+        <File>ca\plants\dd_bush02.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2138240169</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.999456</BBRadius>
+        <BBHScale>1.078214</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.101099" Y="-0.007093" Z="-2.201008" />
+        <BoundingMax X="2.210584" Y="2.894040" Z="1.797905" />
+        <BoundingCenter X="0.054743" Y="1.443474" Z="-0.201551" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>grass_desert</Name>
+        <File>ca\plants\grass_desert.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1170888062</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.599777</BBRadius>
+        <BBHScale>1.124956</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.973782" Y="-0.023598" Z="-0.353473" />
+        <BoundingMax X="0.375663" Y="0.355642" Z="0.846081" />
+        <BoundingCenter X="-0.299059" Y="0.166022" Z="0.246304" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>grass_general_shader</Name>
+        <File>ca\plants\grass_general_shader.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1246932571</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.024770</BBRadius>
+        <BBHScale>1.029067</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.075445" Y="-0.002048" Z="-1.045267" />
+        <BoundingMax X="1.033669" Y="0.350796" Z="1.004274" />
+        <BoundingCenter X="-0.020888" Y="0.174374" Z="-0.020496" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hrusen2</Name>
+        <File>ca\plants\hrusen2.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>83205345</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.517863</BBRadius>
+        <BBHScale>0.977447</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.508566" Y="-0.393739" Z="-3.351922" />
+        <BoundingMax X="3.368479" Y="7.411294" Z="3.683804" />
+        <BoundingCenter X="-0.070044" Y="3.508778" Z="0.165941" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>jablon</Name>
+        <File>ca\plants\jablon.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-265694528</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.052586</BBRadius>
+        <BBHScale>1.077886</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.322774" Y="-0.349891" Z="-3.308051" />
+        <BoundingMax X="4.413674" Y="5.795950" Z="4.797121" />
+        <BoundingCenter X="0.045450" Y="2.723030" Z="0.744535" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>jitrocel_shader</Name>
+        <File>ca\plants\jitrocel_shader.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-314927700</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.846004</BBRadius>
+        <BBHScale>0.828247</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.759379" Y="-0.022123" Z="-0.802510" />
+        <BoundingMax X="0.642022" Y="0.067985" Z="0.889498" />
+        <BoundingCenter X="-0.058679" Y="0.022931" Z="0.043494" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ker buxus</Name>
+        <File>ca\plants\ker buxus.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>906891131</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.485740</BBRadius>
+        <BBHScale>1.071251</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.552150" Y="-0.437611" Z="-1.591354" />
+        <BoundingMax X="1.631049" Y="1.619073" Z="1.380126" />
+        <BoundingCenter X="0.039450" Y="0.590731" Z="-0.105614" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ker deravej</Name>
+        <File>ca\plants\ker deravej.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1075541533</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.402438</BBRadius>
+        <BBHScale>1.048598</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.623353" Y="-1.199706" Z="-2.461502" />
+        <BoundingMax X="2.415032" Y="2.706304" Z="2.343375" />
+        <BoundingCenter X="-0.104160" Y="0.753299" Z="-0.059063" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ker pichlavej</Name>
+        <File>ca\plants\ker pichlavej.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>421331168</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.858639</BBRadius>
+        <BBHScale>1.090861</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.837967" Y="-0.657721" Z="-1.949303" />
+        <BoundingMax X="2.217064" Y="2.235952" Z="1.767974" />
+        <BoundingCenter X="0.189549" Y="0.789116" Z="-0.090664" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ker s bobulema</Name>
+        <File>ca\plants\ker s bobulema.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-398091102</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.255882</BBRadius>
+        <BBHScale>1.048703</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.313986" Y="-0.644972" Z="-1.355880" />
+        <BoundingMax X="1.320109" Y="1.506445" Z="1.155884" />
+        <BoundingCenter X="0.003062" Y="0.430737" Z="-0.099998" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ker trs travy3</Name>
+        <File>ca\plants\ker trs travy3.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1061012832</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.476368</BBRadius>
+        <BBHScale>1.003081</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.481115" Y="-0.004230" Z="-0.480720" />
+        <BoundingMax X="0.474556" Y="0.328061" Z="0.472015" />
+        <BoundingCenter X="-0.003280" Y="0.161916" Z="-0.004352" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ker trs travy5</Name>
+        <File>ca\plants\ker trs travy5.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1061012830</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.344406</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.349855" Y="-0.011196" Z="-0.338956" />
+        <BoundingMax X="0.338956" Y="1.172347" Z="0.349855" />
+        <BoundingCenter X="-0.005449" Y="0.580576" Z="0.005449" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>klady_ihlic</Name>
+        <File>ca\plants\klady_ihlic.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-818643075</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.132805</BBRadius>
+        <BBHScale>2.886547</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.352450" Y="-0.053823" Z="-1.162130" />
+        <BoundingMax X="3.187340" Y="1.000870" Z="1.103480" />
+        <BoundingCenter X="-0.082555" Y="0.473524" Z="-0.029325" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>klady_smrk</Name>
+        <File>ca\plants\klady_smrk.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1828229341</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.173020</BBRadius>
+        <BBHScale>2.797284</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.353558" Y="-0.053823" Z="-1.176490" />
+        <BoundingMax X="3.208984" Y="1.000870" Z="1.169550" />
+        <BoundingCenter X="-0.072287" Y="0.473524" Z="-0.003470" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>kmen_1_buk</Name>
+        <File>ca\plants\kmen_1_buk.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>219904918</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.444607</BBRadius>
+        <BBHScale>3.592969</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.614370" Y="-0.211291" Z="-0.803952" />
+        <BoundingMax X="4.766491" Y="1.702850" Z="2.085263" />
+        <BoundingCenter X="-0.423940" Y="0.745780" Z="0.640656" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>koprivy</Name>
+        <File>ca\plants\koprivy.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-993208026</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.563849</BBRadius>
+        <BBHScale>0.983771</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.397848" Y="-0.134785" Z="-0.291160" />
+        <BoundingMax X="0.711549" Y="0.867824" Z="0.836539" />
+        <BoundingCenter X="0.156850" Y="0.366520" Z="0.272689" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Krovi</Name>
+        <File>ca\plants\krovi.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-714628933</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.693997</BBRadius>
+        <BBHScale>1.717613</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.065599" Y="-0.780037" Z="-1.753921" />
+        <BoundingMax X="2.753662" Y="1.931694" Z="1.634073" />
+        <BoundingCenter X="-0.155969" Y="0.575829" Z="-0.059924" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Krovi2</Name>
+        <File>ca\plants\krovi2.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>624660023</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.257293</BBRadius>
+        <BBHScale>1.130326</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.050626" Y="-1.113380" Z="-3.672281" />
+        <BoundingMax X="4.312982" Y="7.115695" Z="2.842304" />
+        <BoundingCenter X="0.631178" Y="3.001157" Z="-0.414989" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Krovi4</Name>
+        <File>ca\plants\krovi4.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>624660025</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.883087</BBRadius>
+        <BBHScale>1.727961</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.810474" Y="-0.839794" Z="-1.723051" />
+        <BoundingMax X="2.697328" Y="1.894413" Z="2.043123" />
+        <BoundingCenter X="-0.556573" Y="0.527309" Z="0.160036" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Krovi_bigest</Name>
+        <File>ca\plants\krovi_bigest.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1495867754</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.812776</BBRadius>
+        <BBHScale>1.051876</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.760553" Y="-0.649352" Z="-1.563323" />
+        <BoundingMax X="2.053077" Y="3.750158" Z="2.062229" />
+        <BoundingCenter X="0.146262" Y="1.550403" Z="0.249453" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Krovi_long</Name>
+        <File>ca\plants\krovi_long.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2026270880</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.454139</BBRadius>
+        <BBHScale>1.620187</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.859879" Y="-0.657720" Z="-2.533582" />
+        <BoundingMax X="2.092446" Y="2.235953" Z="2.374695" />
+        <BoundingCenter X="-1.883716" Y="0.789116" Z="-0.079443" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>les_buk</Name>
+        <File>ca\plants\les_buk.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>294399283</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.868339</BBRadius>
+        <BBHScale>1.004031</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.149595" Y="-0.858777" Z="-6.673321" />
+        <BoundingMax X="7.642456" Y="20.657778" Z="7.063356" />
+        <BoundingCenter X="0.746430" Y="9.899500" Z="0.195018" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>les_dub</Name>
+        <File>ca\plants\les_dub.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>310922284</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.877565</BBRadius>
+        <BBHScale>0.938489</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.103419" Y="-0.747334" Z="-7.433829" />
+        <BoundingMax X="7.682606" Y="19.252024" Z="8.321301" />
+        <BoundingCenter X="0.289593" Y="9.252345" Z="0.443736" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>les_dub_jiny</Name>
+        <File>ca\plants\les_dub_jiny.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1063021891</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.161086</BBRadius>
+        <BBHScale>1.089525</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.977964" Y="-0.624620" Z="-6.414787" />
+        <BoundingMax X="7.447344" Y="17.407671" Z="5.907384" />
+        <BoundingCenter X="0.734690" Y="8.391525" Z="-0.253701" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>les_fikovnik2</Name>
+        <File>ca\plants\les_fikovnik2.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-69734132</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.672912</BBRadius>
+        <BBHScale>1.087179</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.805841" Y="-0.422587" Z="-5.297390" />
+        <BoundingMax X="6.529102" Y="11.068246" Z="6.048434" />
+        <BoundingCenter X="0.361630" Y="5.322829" Z="0.375522" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>les_singlestrom</Name>
+        <File>ca\plants\les_singlestrom.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>235508514</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.904496</BBRadius>
+        <BBHScale>0.969458</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.492244" Y="-0.322827" Z="-5.832594" />
+        <BoundingMax X="5.017162" Y="25.183254" Z="3.976398" />
+        <BoundingCenter X="0.262459" Y="12.430214" Z="-0.928098" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>les_singlestrom_b</Name>
+        <File>ca\plants\les_singlestrom_b.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>227359205</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.444442</BBRadius>
+        <BBHScale>1.048599</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.732304" Y="-0.357040" Z="-4.940555" />
+        <BoundingMax X="5.685767" Y="28.182184" Z="5.948329" />
+        <BoundingCenter X="-0.023269" Y="13.912572" Z="0.503887" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>lopuch</Name>
+        <File>ca\plants\lopuch.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1664203341</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.551409</BBRadius>
+        <BBHScale>1.081092</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.687385" Y="-0.019952" Z="-0.393012" />
+        <BoundingMax X="0.504864" Y="0.579034" Z="0.709806" />
+        <BoundingCenter X="-0.091261" Y="0.279541" Z="0.158397" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>oliva</Name>
+        <File>ca\plants\oliva.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1216854871</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.794513</BBRadius>
+        <BBHScale>0.821903</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.331750" Y="-0.307874" Z="-2.652946" />
+        <BoundingMax X="2.261884" Y="3.990753" Z="2.936079" />
+        <BoundingCenter X="-0.034933" Y="1.841440" Z="0.141566" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>palmTest</Name>
+        <File>ca\plants\palmtest.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>986404292</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.460783</BBRadius>
+        <BBHScale>1.010357</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.354946" Y="-0.107885" Z="-2.446072" />
+        <BoundingMax X="0.617592" Y="9.749624" Z="2.475494" />
+        <BoundingCenter X="-1.868677" Y="4.820869" Z="0.014711" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>palm_01</Name>
+        <File>ca\plants\palm_01.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1078987794</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.421087</BBRadius>
+        <BBHScale>1.061124</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.121317" Y="-0.276867" Z="-3.489003" />
+        <BoundingMax X="3.139079" Y="11.210785" Z="3.353172" />
+        <BoundingCenter X="-0.491119" Y="5.466959" Z="-0.067915" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>palm_02</Name>
+        <File>ca\plants\palm_02.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1078987793</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.774408</BBRadius>
+        <BBHScale>1.077260</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.612078" Y="-0.276867" Z="-3.005478" />
+        <BoundingMax X="2.519962" Y="13.707321" Z="4.543339" />
+        <BoundingCenter X="-1.546058" Y="6.715227" Z="0.768930" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>palm_03</Name>
+        <File>ca\plants\palm_03.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1078987792</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.826925</BBRadius>
+        <BBHScale>1.016779</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.344726" Y="-0.276867" Z="-3.874728" />
+        <BoundingMax X="3.437550" Y="13.744106" Z="3.779122" />
+        <BoundingCenter X="-0.453588" Y="6.733620" Z="-0.047803" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>palm_04</Name>
+        <File>ca\plants\palm_04.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1078987791</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.687014</BBRadius>
+        <BBHScale>1.441212</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.137282" Y="-0.899838" Z="-4.557465" />
+        <BoundingMax X="7.372682" Y="13.327354" Z="4.816564" />
+        <BoundingCenter X="0.617700" Y="6.213758" Z="0.129550" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>palm_08small</Name>
+        <File>ca\plants\palm_08small.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1453221874</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.911576</BBRadius>
+        <BBHScale>1.012981</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.832594" Y="-1.395494" Z="-1.895205" />
+        <BoundingMax X="2.040187" Y="2.298422" Z="1.927946" />
+        <BoundingCenter X="0.103796" Y="0.451464" Z="0.016370" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>palm_09</Name>
+        <File>ca\plants\palm_09.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1078987786</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.351079</BBRadius>
+        <BBHScale>0.970837</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.197052" Y="-0.420221" Z="-3.253350" />
+        <BoundingMax X="3.309648" Y="17.134975" Z="3.448808" />
+        <BoundingCenter X="0.056298" Y="8.357377" Z="0.097729" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>palm_10</Name>
+        <File>ca\plants\palm_10.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1078922196</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.920691</BBRadius>
+        <BBHScale>1.099117</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.667646" Y="-0.440881" Z="-4.915585" />
+        <BoundingMax X="5.149181" Y="15.573867" Z="4.925797" />
+        <BoundingCenter X="-0.259233" Y="7.566493" Z="0.005106" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>parez</Name>
+        <File>ca\plants\parez.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1861834346</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.791907</BBRadius>
+        <BBHScale>1.115863</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.684071" Y="-1.041237" Z="-1.815835" />
+        <BoundingMax X="2.314974" Y="0.365462" Z="1.767980" />
+        <BoundingCenter X="0.315451" Y="-0.337888" Z="-0.023927" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>parez3</Name>
+        <File>ca\plants\parez3.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1513733149</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.724801</BBRadius>
+        <BBHScale>0.910385</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.599945" Y="-0.492232" Z="-0.649130" />
+        <BoundingMax X="0.719751" Y="0.223708" Z="0.800472" />
+        <BoundingCenter X="0.059903" Y="-0.134262" Z="0.075671" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pinus_mugo_lowpoly</Name>
+        <File>ca\plants\pinus_mugo_lowpoly.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1073407069</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.525584</BBRadius>
+        <BBHScale>1.119327</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.591868" Y="-0.533671" Z="-1.179552" />
+        <BoundingMax X="1.823386" Y="2.103011" Z="1.871615" />
+        <BoundingCenter X="0.115759" Y="0.784670" Z="0.346031" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Smrk_maly</Name>
+        <File>ca\plants\smrk_maly.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1210433267</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.763234</BBRadius>
+        <BBHScale>1.040363</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.097258" Y="-0.291240" Z="-1.848182" />
+        <BoundingMax X="1.571548" Y="4.319604" Z="1.678287" />
+        <BoundingCenter X="-0.262855" Y="2.014182" Z="-0.084947" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Smrk_siroky</Name>
+        <File>ca\plants\smrk_siroky.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>709176909</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.443422</BBRadius>
+        <BBHScale>1.009033</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.089825" Y="-3.087721" Z="-6.435459" />
+        <BoundingMax X="6.913432" Y="17.214428" Z="6.451385" />
+        <BoundingCenter X="0.411804" Y="7.063354" Z="0.007963" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Smrk_velky</Name>
+        <File>ca\plants\smrk_velky.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1658873537</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.506572</BBRadius>
+        <BBHScale>1.037680</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.679846" Y="-5.219286" Z="-6.340187" />
+        <BoundingMax X="5.823629" Y="22.778416" Z="6.672957" />
+        <BoundingCenter X="-0.928108" Y="8.779565" Z="0.166385" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>str briza</Name>
+        <File>ca\plants\str briza.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-906817519</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.326357</BBRadius>
+        <BBHScale>0.925411</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.709125" Y="-0.340481" Z="-2.304094" />
+        <BoundingMax X="3.447371" Y="9.967582" Z="4.348619" />
+        <BoundingCenter X="0.369123" Y="4.813550" Z="1.022263" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>str buk</Name>
+        <File>ca\plants\str buk.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2110216343</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.868339</BBRadius>
+        <BBHScale>1.004031</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.149595" Y="-0.858777" Z="-6.673321" />
+        <BoundingMax X="7.642456" Y="20.657778" Z="7.063356" />
+        <BoundingCenter X="0.746430" Y="9.899500" Z="0.195018" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>str dub jiny</Name>
+        <File>ca\plants\str dub jiny.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1014973752</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.161086</BBRadius>
+        <BBHScale>1.089525</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.977964" Y="-0.624620" Z="-6.414787" />
+        <BoundingMax X="7.447344" Y="17.407671" Z="5.907384" />
+        <BoundingCenter X="0.734690" Y="8.391525" Z="-0.253701" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>str dub</Name>
+        <File>ca\plants\str dub.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2093693342</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.888237</BBRadius>
+        <BBHScale>0.958983</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.397089" Y="-0.747334" Z="-7.433829" />
+        <BoundingMax X="7.732275" Y="19.372396" Z="8.342645" />
+        <BoundingCenter X="0.167593" Y="9.312531" Z="0.454408" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>str habr</Name>
+        <File>ca\plants\str habr.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1063198856</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.345568</BBRadius>
+        <BBHScale>0.998371</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.749897" Y="-0.754538" Z="-4.089067" />
+        <BoundingMax X="3.927083" Y="12.548865" Z="4.602070" />
+        <BoundingCenter X="-0.411407" Y="5.897164" Z="0.256502" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>str jalovec</Name>
+        <File>ca\plants\str jalovec.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-119170549</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.500000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.486466" Y="-0.100107" Z="-0.560063" />
+        <BoundingMax X="0.513534" Y="3.047447" Z="0.439937" />
+        <BoundingCenter X="0.013534" Y="1.473670" Z="-0.060063" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>str javor</Name>
+        <File>ca\plants\str javor.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-658640301</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.061173</BBRadius>
+        <BBHScale>1.093312</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.379828" Y="-0.315116" Z="-4.738543" />
+        <BoundingMax X="5.687052" Y="8.865067" Z="5.383804" />
+        <BoundingCenter X="0.153612" Y="4.274975" Z="0.322631" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>str jerabina</Name>
+        <File>ca\plants\str jerabina.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1624222291</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.702069</BBRadius>
+        <BBHScale>1.138172</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.543945" Y="-0.303456" Z="-2.769707" />
+        <BoundingMax X="3.606894" Y="9.890421" Z="2.634431" />
+        <BoundingCenter X="0.531475" Y="4.793482" Z="-0.067638" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>str kastan</Name>
+        <File>ca\plants\str kastan.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-703669453</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.381622</BBRadius>
+        <BBHScale>0.900268</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.497194" Y="-0.310624" Z="-7.416386" />
+        <BoundingMax X="6.793681" Y="16.675934" Z="7.346858" />
+        <BoundingCenter X="0.148243" Y="8.182655" Z="-0.034764" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>str krovisko vysoke</Name>
+        <File>ca\plants\str krovisko vysoke.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>714438606</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.217224</BBRadius>
+        <BBHScale>0.952912</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.781030" Y="-0.514574" Z="-3.890819" />
+        <BoundingMax X="3.350430" Y="8.044641" Z="2.543628" />
+        <BoundingCenter X="0.284700" Y="3.765033" Z="-0.673595" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>str lipa</Name>
+        <File>ca\plants\str lipa.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2126160349</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.965609</BBRadius>
+        <BBHScale>1.063198</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.029131" Y="-0.165000" Z="-9.135929" />
+        <BoundingMax X="10.161707" Y="20.754484" Z="10.795288" />
+        <BoundingCenter X="-0.433712" Y="10.294743" Z="0.829679" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>str osika</Name>
+        <File>ca\plants\str osika.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1802219564</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.345867</BBRadius>
+        <BBHScale>1.015096</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.284890" Y="-0.314499" Z="-5.319260" />
+        <BoundingMax X="5.568248" Y="10.265170" Z="5.372475" />
+        <BoundingCenter X="0.141679" Y="4.975335" Z="0.026608" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>str trnka</Name>
+        <File>ca\plants\str trnka.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1829173257</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.753459</BBRadius>
+        <BBHScale>1.047677</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.534391" Y="-0.691047" Z="-1.894974" />
+        <BoundingMax X="2.139728" Y="4.432370" Z="1.611945" />
+        <BoundingCenter X="0.302668" Y="1.870661" Z="-0.141515" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>str vrba</Name>
+        <File>ca\plants\str vrba.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1415532906</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.075364</BBRadius>
+        <BBHScale>0.839357</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.580645" Y="-2.469963" Z="-5.963377" />
+        <BoundingMax X="7.296867" Y="7.600266" Z="8.187351" />
+        <BoundingCenter X="1.358111" Y="2.565151" Z="1.111987" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>str_Briza_kriva</Name>
+        <File>ca\plants\str_briza_kriva.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2040820320</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.866182</BBRadius>
+        <BBHScale>1.144265</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.304367" Y="-0.301407" Z="-1.812149" />
+        <BoundingMax X="3.254978" Y="7.969109" Z="3.920216" />
+        <BoundingCenter X="-0.024694" Y="3.833851" Z="1.054033" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>str_Briza_rovna</Name>
+        <File>ca\plants\str_briza_rovna.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-593724417</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.257894</BBRadius>
+        <BBHScale>1.047297</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.080060" Y="-0.305224" Z="-2.573664" />
+        <BoundingMax X="3.743906" Y="7.310229" Z="3.942125" />
+        <BoundingCenter X="0.331923" Y="3.502502" Z="0.684230" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>str_fikovnik</Name>
+        <File>ca\plants\str_fikovnik.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-516258769</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.649982</BBRadius>
+        <BBHScale>1.069988</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.926765" Y="-1.268073" Z="-5.289178" />
+        <BoundingMax X="6.164059" Y="9.336728" Z="6.010787" />
+        <BoundingCenter X="0.118647" Y="4.034328" Z="0.360805" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>str_fikovnik2</Name>
+        <File>ca\plants\str_fikovnik2.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-241858621</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.672912</BBRadius>
+        <BBHScale>1.087179</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.805841" Y="-0.422587" Z="-5.297390" />
+        <BoundingMax X="6.529102" Y="11.068246" Z="6.048434" />
+        <BoundingCenter X="0.361630" Y="5.322829" Z="0.375522" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>str_fikovnik_ker</Name>
+        <File>ca\plants\str_fikovnik_ker.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>968425544</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.141669</BBRadius>
+        <BBHScale>0.887614</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.729566" Y="-1.356908" Z="-4.823495" />
+        <BoundingMax X="4.398072" Y="5.777940" Z="5.459844" />
+        <BoundingCenter X="-0.165747" Y="2.210516" Z="0.318174" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>str_liskac</Name>
+        <File>ca\plants\str_liskac.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1145021787</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.699205</BBRadius>
+        <BBHScale>1.038965</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.744035" Y="-0.710275" Z="-3.045902" />
+        <BoundingMax X="2.864726" Y="5.638245" Z="2.352508" />
+        <BoundingCenter X="0.060346" Y="2.463984" Z="-0.346697" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>str_pinie</Name>
+        <File>ca\plants\str_pinie.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1433674563</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.982495</BBRadius>
+        <BBHScale>1.072700</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.891127" Y="-0.218206" Z="-2.016190" />
+        <BoundingMax X="1.362116" Y="14.116132" Z="1.948800" />
+        <BoundingCenter X="-0.764506" Y="6.948963" Z="-0.033695" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>str_topol</Name>
+        <File>ca\plants\str_topol.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2102436932</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.019139</BBRadius>
+        <BBHScale>1.082574</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.853812" Y="-0.350000" Z="-3.230903" />
+        <BoundingMax X="3.683070" Y="22.178389" Z="2.807374" />
+        <BoundingCenter X="0.414629" Y="10.914194" Z="-0.211764" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>str_Topol2</Name>
+        <File>ca\plants\str_topol2.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1248836338</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.699451</BBRadius>
+        <BBHScale>0.868064</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.705733" Y="-0.376932" Z="-4.014029" />
+        <BoundingMax X="2.716988" Y="23.829262" Z="3.384873" />
+        <BoundingCenter X="-0.494372" Y="11.726165" Z="-0.314578" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>vetev_1_buk</Name>
+        <File>ca\plants\vetev_1_buk.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1500688991</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.705289</BBRadius>
+        <BBHScale>1.047522</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.949718" Y="-0.010498" Z="-0.718284" />
+        <BoundingMax X="0.527895" Y="0.693985" Z="0.692295" />
+        <BoundingCenter X="-0.210912" Y="0.341743" Z="-0.012995" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>vetev_2_dub</Name>
+        <File>ca\plants\vetev_2_dub.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-344601701</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.785758</BBRadius>
+        <BBHScale>0.963402</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.740429" Y="-0.043991" Z="-0.814109" />
+        <BoundingMax X="0.773573" Y="0.507694" Z="0.757407" />
+        <BoundingCenter X="0.016572" Y="0.231852" Z="-0.028351" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>vetev_3_borovice</Name>
+        <File>ca\plants\vetev_3_borovice.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-948465676</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.408659</BBRadius>
+        <BBHScale>2.516172</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.965070" Y="-0.009011" Z="-0.244996" />
+        <BoundingMax X="1.091440" Y="0.334924" Z="0.572321" />
+        <BoundingCenter X="0.063185" Y="0.162956" Z="0.163662" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>vetev_4_smrk</Name>
+        <File>ca\plants\vetev_4_smrk.p3d</File>
+        <Date>09/08/14 06:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1611226841</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.544880</BBRadius>
+        <BBHScale>1.717297</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.990637" Y="-0.057697" Z="-0.732387" />
+        <BoundingMax X="0.880803" Y="0.520164" Z="0.357372" />
+        <BoundingCenter X="-0.054917" Y="0.231234" Z="-0.187508" />
+        <Placement></Placement>
+    </Template>
+</Library>

@@ -1,0 +1,1026 @@
+<?xml version="1.0" ?>
+<Library name="misc_acr" shape="rectangle" default_fill="-256" default_outline="-1" tex="0">
+    <Template>
+        <Name>marker_basic_ACR</Name>
+        <File>ca\misc_acr\3dmarkers\marker_basic_acr.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1618917830</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.200000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.200000" Y="0.000000" Z="-0.200000" />
+        <BoundingMax X="0.200000" Y="0.210000" Z="0.200000" />
+        <BoundingCenter X="0.000000" Y="0.105000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>marker_checkpoint_ACR</Name>
+        <File>ca\misc_acr\3dmarkers\marker_checkpoint_acr.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1958840158</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.040000</BBRadius>
+        <BBHScale>2.648700</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.105948" Y="0.000000" Z="-0.040000" />
+        <BoundingMax X="0.105948" Y="0.820000" Z="0.040000" />
+        <BoundingCenter X="0.000000" Y="0.410000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>marker_getin_ACR</Name>
+        <File>ca\misc_acr\3dmarkers\marker_getin_acr.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>211535559</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.040000</BBRadius>
+        <BBHScale>5.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.200000" Y="0.000000" Z="-0.040000" />
+        <BoundingMax X="0.200000" Y="0.620000" Z="0.040000" />
+        <BoundingCenter X="0.000000" Y="0.310000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>marker_use_ACR</Name>
+        <File>ca\misc_acr\3dmarkers\marker_use_acr.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2091259251</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.040863</BBRadius>
+        <BBHScale>4.441009</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.181290" Y="0.000000" Z="-0.040000" />
+        <BoundingMax X="0.181656" Y="0.721774" Z="0.041726" />
+        <BoundingCenter X="0.000183" Y="0.360887" Z="0.000863" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>marker_waypoint_ACR</Name>
+        <File>ca\misc_acr\3dmarkers\marker_waypoint_acr.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1618422281</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.258134</BBRadius>
+        <BBHScale>0.665003</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.171660" Y="0.000000" Z="-0.258134" />
+        <BoundingMax X="0.171660" Y="0.380000" Z="0.258134" />
+        <BoundingCenter X="0.000000" Y="0.190000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_cargo_cont_small_ACR</Name>
+        <File>ca\misc_acr\container\misc_cargo_cont_small_acr.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1881517823</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.478807</BBRadius>
+        <BBHScale>0.899686</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.329213" Y="-0.033183" Z="-1.477531" />
+        <BoundingMax X="1.331710" Y="2.601720" Z="1.480084" />
+        <BoundingCenter X="0.001249" Y="1.284269" Z="0.001276" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Cube25cm_ACR</Name>
+        <File>ca\misc_acr\helpers\cube25cm_acr.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1847704397</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.125000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.125000" Y="-0.125000" Z="-0.125000" />
+        <BoundingMax X="0.125000" Y="0.125000" Z="0.125000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Cube5cm_ACR</Name>
+        <File>ca\misc_acr\helpers\cube5cm_acr.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1182290747</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.025000" Y="-0.025000" Z="-0.025000" />
+        <BoundingMax X="0.025000" Y="0.025000" Z="0.025000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>PointerLarge_ACR</Name>
+        <File>ca\misc_acr\helpers\pointerlarge_acr.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2001534895</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.249992</BBRadius>
+        <BBHScale>0.866025</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.144333" Y="0.000000" Z="-0.249992" />
+        <BoundingMax X="0.288666" Y="0.866838" Z="0.249992" />
+        <BoundingCenter X="0.072167" Y="0.433419" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>PointerSmall_ACR</Name>
+        <File>ca\misc_acr\helpers\pointersmall_acr.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-212848805</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.124996</BBRadius>
+        <BBHScale>0.866025</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.072167" Y="0.000000" Z="-0.124996" />
+        <BoundingMax X="0.144333" Y="0.433419" Z="0.124996" />
+        <BoundingCenter X="0.036083" Y="0.216709" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>PBX_ACR</Name>
+        <File>ca\misc_acr\pbx\pbx_acr.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1651030615</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.015360</BBRadius>
+        <BBHScale>0.802884</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.618746" Y="-1.037368" Z="-1.802750" />
+        <BoundingMax X="1.617453" Y="1.597270" Z="2.227970" />
+        <BoundingCenter X="-0.000647" Y="0.279951" Z="0.212610" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Crossing0st</Name>
+        <File>ca\misc_acr\scaffoldingsmall\misc_crossing0st.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>183071228</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.487476</BBRadius>
+        <BBHScale>0.228226</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.583423" Y="-0.059576" Z="-2.503080" />
+        <BoundingMax X="0.551990" Y="0.151699" Z="2.471871" />
+        <BoundingCenter X="-0.015716" Y="0.046062" Z="-0.015604" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Crossing0st_A</Name>
+        <File>ca\misc_acr\scaffoldingsmall\misc_crossing0st_a.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1203194782</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.984822</BBRadius>
+        <BBHScale>0.270461</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.324161" Y="-0.073780" Z="-7.615687" />
+        <BoundingMax X="1.372235" Y="3.654397" Z="2.353957" />
+        <BoundingCenter X="0.024037" Y="1.790308" Z="-2.630865" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Crossing0st_B</Name>
+        <File>ca\misc_acr\scaffoldingsmall\misc_crossing0st_b.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1203194783</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.984822</BBRadius>
+        <BBHScale>0.270461</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.324161" Y="-0.073780" Z="-7.615687" />
+        <BoundingMax X="1.372235" Y="3.654397" Z="2.353957" />
+        <BoundingCenter X="0.024037" Y="1.790308" Z="-2.630865" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Crossing0st_C</Name>
+        <File>ca\misc_acr\scaffoldingsmall\misc_crossing0st_c.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1203194784</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.984822</BBRadius>
+        <BBHScale>0.270461</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.324161" Y="-0.073780" Z="-7.615687" />
+        <BoundingMax X="1.372235" Y="3.654397" Z="2.353957" />
+        <BoundingCenter X="0.024037" Y="1.790308" Z="-2.630865" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Crossing30st</Name>
+        <File>ca\misc_acr\scaffoldingsmall\misc_crossing30st.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1945866061</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.050918</BBRadius>
+        <BBHScale>0.276806</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.583423" Y="-0.179607" Z="-2.296275" />
+        <BoundingMax X="0.551990" Y="2.720893" Z="1.805560" />
+        <BoundingCenter X="-0.015716" Y="1.270643" Z="-0.245358" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Crossing30st_A</Name>
+        <File>ca\misc_acr\scaffoldingsmall\misc_crossing30st_a.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1230003925</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.050918</BBRadius>
+        <BBHScale>0.320690</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.662528" Y="-0.179607" Z="-2.296275" />
+        <BoundingMax X="0.652889" Y="2.720893" Z="1.805560" />
+        <BoundingCenter X="-0.004819" Y="1.270643" Z="-0.245358" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Crossing30st_B</Name>
+        <File>ca\misc_acr\scaffoldingsmall\misc_crossing30st_b.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1230003926</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.050918</BBRadius>
+        <BBHScale>0.323784</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.675039" Y="-0.179607" Z="-2.296275" />
+        <BoundingMax X="0.653069" Y="2.720893" Z="1.805560" />
+        <BoundingCenter X="-0.010985" Y="1.270643" Z="-0.245358" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Crossing30st_C</Name>
+        <File>ca\misc_acr\scaffoldingsmall\misc_crossing30st_c.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1230003927</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.050918</BBRadius>
+        <BBHScale>0.330292</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.719170" Y="-0.179607" Z="-2.296275" />
+        <BoundingMax X="0.635633" Y="2.720893" Z="1.805560" />
+        <BoundingCenter X="-0.041769" Y="1.270643" Z="-0.245358" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Scaffolding</Name>
+        <File>ca\misc_acr\scaffoldingsmall\misc_scaffolding.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-359798087</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.281544</BBRadius>
+        <BBHScale>0.335537</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.118690" Y="-2.495287" Z="-12.195517" />
+        <BoundingMax X="3.109920" Y="6.967817" Z="6.367570" />
+        <BoundingCenter X="-0.004385" Y="2.236265" Z="-2.913973" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Shooting_range_ACR</Name>
+        <File>ca\misc_acr\shooting_range\shooting_range_acr.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1350529362</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.013658</BBRadius>
+        <BBHScale>0.824873</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.661007" Y="-0.504795" Z="-2.090816" />
+        <BoundingMax X="1.661019" Y="2.661303" Z="1.936500" />
+        <BoundingCenter X="0.000006" Y="1.078254" Z="-0.077158" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Shooting_range_ruins_ACR</Name>
+        <File>ca\misc_acr\shooting_range\shooting_range_ruins_acr.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>483444574</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.255783</BBRadius>
+        <BBHScale>1.137590</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.816097" Y="-0.051561" Z="-2.310694" />
+        <BoundingMax X="2.316215" Y="0.663276" Z="2.200871" />
+        <BoundingCenter X="-0.249941" Y="0.305857" Z="-0.054911" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sign_mineField_ACR</Name>
+        <File>ca\misc_acr\sign_mines\sign_minefield_acr.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>750130006</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.030000</BBRadius>
+        <BBHScale>5.999999</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.180000" Y="-0.200000" Z="-0.015000" />
+        <BoundingMax X="0.180000" Y="1.140000" Z="0.045000" />
+        <BoundingCenter X="-0.000000" Y="0.470000" Z="0.015000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>target_figure_popup_ACR</Name>
+        <File>ca\misc_acr\targets\target_figure_popup_acr.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>221286128</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.285546</BBRadius>
+        <BBHScale>1.262142</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.360400" Y="-0.000000" Z="-0.445971" />
+        <BoundingMax X="0.360400" Y="1.716143" Z="0.125121" />
+        <BoundingCenter X="0.000000" Y="0.858072" Z="-0.160425" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>target_figure_static_ACR</Name>
+        <File>ca\misc_acr\targets\target_figure_static_acr.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2073036692</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.380635</BBRadius>
+        <BBHScale>0.877211</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.332476" Y="0.002572" Z="-0.005789" />
+        <BoundingMax X="0.335318" Y="1.788968" Z="0.755481" />
+        <BoundingCenter X="0.001421" Y="0.895770" Z="0.374846" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>center_ACR</Name>
+        <File>ca\misc_acr\targets\invisibletarget\center_acr.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1574218502</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.050000</BBRadius>
+        <BBHScale>0.608000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.030401" Y="-0.030400" Z="-0.050002" />
+        <BoundingMax X="0.030399" Y="0.030400" Z="0.049998" />
+        <BoundingCenter X="-0.000001" Y="-0.000000" Z="-0.000002" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sector02_ACR</Name>
+        <File>ca\misc_acr\targets\invisibletarget\sector02_acr.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2121711417</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.045000</BBRadius>
+        <BBHScale>0.330588</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.000001" Y="0.000000" Z="-0.045002" />
+        <BoundingMax X="0.029752" Y="0.059506" Z="0.044998" />
+        <BoundingCenter X="0.014875" Y="0.029753" Z="-0.000002" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sector03_ACR</Name>
+        <File>ca\misc_acr\targets\invisibletarget\sector03_acr.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1033691590</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.040000</BBRadius>
+        <BBHScale>0.734278</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.000001" Y="-0.000000" Z="-0.040002" />
+        <BoundingMax X="0.058741" Y="0.117484" Z="0.039998" />
+        <BoundingCenter X="0.029370" Y="0.058742" Z="-0.000002" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sector04_ACR</Name>
+        <File>ca\misc_acr\targets\invisibletarget\sector04_acr.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>105872699</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.035000</BBRadius>
+        <BBHScale>1.256250</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.000001" Y="0.000000" Z="-0.035002" />
+        <BoundingMax X="0.087936" Y="0.175875" Z="0.034998" />
+        <BoundingCenter X="0.043968" Y="0.087938" Z="-0.000002" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sector05_ACR</Name>
+        <File>ca\misc_acr\targets\invisibletarget\sector05_acr.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1245436988</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.030000</BBRadius>
+        <BBHScale>1.954166</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.000001" Y="-0.000007" Z="-0.030002" />
+        <BoundingMax X="0.117249" Y="0.234493" Z="0.029998" />
+        <BoundingCenter X="0.058624" Y="0.117243" Z="-0.000002" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>white</Name>
+        <File>ca\misc_acr\testsphere\white.p3d</File>
+        <Date>09/08/14 06:15:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1379045399</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-25.000000" Y="-23.999992" Z="-25.000000" />
+        <BoundingMax X="25.000000" Y="26.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="1.000004" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+</Library>

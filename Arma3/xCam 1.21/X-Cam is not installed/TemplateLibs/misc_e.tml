@@ -1,0 +1,4755 @@
+<?xml version="1.0" ?>
+<Library name="misc_e" shape="rectangle" default_fill="-256" default_outline="-1" tex="0">
+    <Template>
+        <Name>waterbasin_conc_proxy</Name>
+        <File>ca\misc_e\data\waterbasin_conc_proxy.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2018259763</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>20.360401</BBRadius>
+        <BBHScale>0.379284</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.846941" Y="-1.233160" Z="-23.011600" />
+        <BoundingMax X="7.597810" Y="1.409860" Z="17.709202" />
+        <BoundingCenter X="-0.124565" Y="0.088350" Z="-2.651199" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wreck_C130J_ep1_dirt</Name>
+        <File>ca\misc_e\data\wreck_c130j_ep1_dirt.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-684064755</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>24.724552</BBRadius>
+        <BBHScale>0.236288</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.487940" Y="-0.930724" Z="-15.883000" />
+        <BoundingMax X="5.196290" Y="0.532966" Z="33.566105" />
+        <BoundingCenter X="-0.645825" Y="-0.198879" Z="8.841553" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>seafox</Name>
+        <File>ca\misc_e\seafox\seafox.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1779463104</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.658066</BBRadius>
+        <BBHScale>0.358599</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.688790" Y="-0.489798" Z="-4.572330" />
+        <BoundingMax X="1.651970" Y="6.839038" Z="4.743802" />
+        <BoundingCenter X="-0.018410" Y="3.174620" Z="0.085736" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_anti_radar_EAST_ep1</Name>
+        <File>ca\misc_e\wf\wf_anti_radar_east_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1651857418</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>18.761055</BBRadius>
+        <BBHScale>1.018145</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-19.516699" Y="-5.087070" Z="-16.816809" />
+        <BoundingMax X="18.686251" Y="37.871002" Z="20.705301" />
+        <BoundingCenter X="-0.415224" Y="16.391966" Z="1.944246" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_anti_radar_WEST_ep1</Name>
+        <File>ca\misc_e\wf\wf_anti_radar_west_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>845123964</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>18.761055</BBRadius>
+        <BBHScale>1.018145</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-19.516699" Y="-5.123759" Z="-16.816809" />
+        <BoundingMax X="18.686251" Y="37.871002" Z="20.705301" />
+        <BoundingCenter X="-0.415224" Y="16.373621" Z="1.944246" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_artilery_radar_EAST_ep1</Name>
+        <File>ca\misc_e\wf\wf_artilery_radar_east_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1564552186</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>17.971352</BBRadius>
+        <BBHScale>1.004755</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-22.266001" Y="-5.000010" Z="-16.925802" />
+        <BoundingMax X="13.847600" Y="32.749359" Z="19.016901" />
+        <BoundingCenter X="-4.209200" Y="13.874675" Z="1.045549" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_artilery_radar_WEST_ep1</Name>
+        <File>ca\misc_e\wf\wf_artilery_radar_west_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1923681656</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>17.971352</BBRadius>
+        <BBHScale>1.004755</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-22.266001" Y="-5.000010" Z="-16.925802" />
+        <BoundingMax X="13.847600" Y="39.170532" Z="19.016901" />
+        <BoundingCenter X="-4.209200" Y="17.085260" Z="1.045549" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_barracks_EAST_ep1</Name>
+        <File>ca\misc_e\wf\wf_barracks_east_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2092622038</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>17.666615</BBRadius>
+        <BBHScale>0.799145</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.126188" Y="-5.044624" Z="-16.170601" />
+        <BoundingMax X="15.110197" Y="4.536201" Z="19.162628" />
+        <BoundingCenter X="0.992004" Y="-0.254212" Z="1.496014" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_barracks_WEST_ep1</Name>
+        <File>ca\misc_e\wf\wf_barracks_west_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1395611804</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>16.050995</BBRadius>
+        <BBHScale>0.830023</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-14.282835" Y="-5.079704" Z="-11.403842" />
+        <BoundingMax X="12.362547" Y="3.471070" Z="20.698147" />
+        <BoundingCenter X="-0.960144" Y="-0.804317" Z="4.647152" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_factory_heavy_EAST_ep1</Name>
+        <File>ca\misc_e\wf\wf_factory_heavy_east_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>493931169</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>17.677551</BBRadius>
+        <BBHScale>1.168722</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-16.754200" Y="-5.000000" Z="-16.220600" />
+        <BoundingMax X="24.566101" Y="5.546751" Z="19.134501" />
+        <BoundingCenter X="3.905951" Y="0.273375" Z="1.456950" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_factory_heavy_WEST_ep1</Name>
+        <File>ca\misc_e\wf\wf_factory_heavy_west_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-312802285</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>18.098640</BBRadius>
+        <BBHScale>1.169986</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-22.406853" Y="-5.000000" Z="-15.169080" />
+        <BoundingMax X="19.943459" Y="4.553591" Z="21.028202" />
+        <BoundingCenter X="-1.231697" Y="-0.223205" Z="2.929561" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_factory_light_EAST_ep1</Name>
+        <File>ca\misc_e\wf\wf_factory_light_east_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1428829138</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>14.566451</BBRadius>
+        <BBHScale>0.967346</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-14.957201" Y="-5.000000" Z="-14.853201" />
+        <BoundingMax X="13.224401" Y="3.160300" Z="14.279701" />
+        <BoundingCenter X="-0.866400" Y="-0.919850" Z="-0.286750" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_factory_light_TKG_ep1</Name>
+        <File>ca\misc_e\wf\wf_factory_light_tkg_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>392134089</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>14.566451</BBRadius>
+        <BBHScale>0.967346</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-14.957201" Y="-5.000000" Z="-14.853201" />
+        <BoundingMax X="13.224401" Y="3.160300" Z="14.279701" />
+        <BoundingCenter X="-0.866400" Y="-0.919850" Z="-0.286750" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_factory_light_WEST_ep1</Name>
+        <File>ca\misc_e\wf\wf_factory_light_west_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>622095684</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>14.220401</BBRadius>
+        <BBHScale>0.885857</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.858301" Y="-5.000000" Z="-12.280300" />
+        <BoundingMax X="9.336191" Y="3.171140" Z="16.160501" />
+        <BoundingCenter X="-3.261055" Y="-0.914430" Z="1.940101" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_field_hospital_EAST_ep1</Name>
+        <File>ca\misc_e\wf\wf_field_hospital_east_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-865277548</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.869230</BBRadius>
+        <BBHScale>1.176402</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.272161" Y="-5.000000" Z="-7.951810" />
+        <BoundingMax X="9.242600" Y="4.304131" Z="7.786650" />
+        <BoundingCenter X="-0.014780" Y="-0.347935" Z="-0.082580" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_field_hospital_WEST_ep1</Name>
+        <File>ca\misc_e\wf\wf_field_hospital_west_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1672011002</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.014601</BBRadius>
+        <BBHScale>0.784940</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.583200" Y="-5.000000" Z="-13.590001" />
+        <BoundingMax X="7.278271" Y="2.889360" Z="10.439200" />
+        <BoundingCenter X="-2.152465" Y="-1.055320" Z="-1.575400" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_heliport_EAST_ep1</Name>
+        <File>ca\misc_e\wf\wf_heliport_east_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1027767624</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>15.034101</BBRadius>
+        <BBHScale>1.113033</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-18.444500" Y="-5.000000" Z="-13.249001" />
+        <BoundingMax X="15.022400" Y="17.085707" Z="16.819201" />
+        <BoundingCenter X="-1.711050" Y="6.042853" Z="1.785100" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_heliport_TKG_ep1</Name>
+        <File>ca\misc_e\wf\wf_heliport_tkg_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1936976541</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>15.034101</BBRadius>
+        <BBHScale>1.113033</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-18.444500" Y="-5.000000" Z="-13.249001" />
+        <BoundingMax X="15.022400" Y="17.085707" Z="16.819201" />
+        <BoundingCenter X="-1.711050" Y="6.042853" Z="1.785100" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_heliport_WEST_ep1</Name>
+        <File>ca\misc_e\wf\wf_heliport_west_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1834501078</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>16.059252</BBRadius>
+        <BBHScale>0.970724</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-16.566301" Y="-5.089410" Z="-15.406902" />
+        <BoundingMax X="14.611902" Y="17.085707" Z="16.711601" />
+        <BoundingCenter X="-0.977200" Y="5.998148" Z="0.652349" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_hesco_10x_ep1</Name>
+        <File>ca\misc_e\wf\wf_hesco_10x_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>615261811</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.017283</BBRadius>
+        <BBHScale>8.082261</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.266198" Y="-0.303685" Z="-1.075500" />
+        <BoundingMax X="8.177695" Y="1.412184" Z="0.959065" />
+        <BoundingCenter X="-0.044251" Y="0.554250" Z="-0.058218" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_hesco_5x_ep1</Name>
+        <File>ca\misc_e\wf\wf_hesco_5x_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-694328489</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.017283</BBRadius>
+        <BBHScale>4.234310</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.301428" Y="-0.269302" Z="-1.075500" />
+        <BoundingMax X="4.313554" Y="1.412184" Z="0.959065" />
+        <BoundingCenter X="0.006063" Y="0.571441" Z="-0.058218" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_hesco_big_10x_ep1</Name>
+        <File>ca\misc_e\wf\wf_hesco_big_10x_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-306113804</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.675965</BBRadius>
+        <BBHScale>5.092559</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.611191" Y="-0.537999" Z="-1.075500" />
+        <BoundingMax X="8.458710" Y="2.730744" Z="2.276429" />
+        <BoundingCenter X="-0.076241" Y="1.096373" Z="0.600464" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_HQ_BMP2_EP1</Name>
+        <File>ca\misc_e\wf\wf_hq_bmp2_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>265182362</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.284600</BBRadius>
+        <BBHScale>1.141032</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.287081" Y="-5.000000" Z="-11.064100" />
+        <BoundingMax X="16.465101" Y="11.937000" Z="11.505100" />
+        <BoundingCenter X="3.589010" Y="3.468500" Z="0.220500" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_HQ_BRDM2_EP1</Name>
+        <File>ca\misc_e\wf\wf_hq_brdm2_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2143341638</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.733521</BBRadius>
+        <BBHScale>1.119275</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.569094" Y="-5.025824" Z="-11.696135" />
+        <BoundingMax X="16.696974" Y="3.948550" Z="11.770906" />
+        <BoundingCenter X="3.563940" Y="-0.538637" Z="0.037386" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_HQ_M1130_CV_EP1</Name>
+        <File>ca\misc_e\wf\wf_hq_m1130_cv_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-393500267</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.608511</BBRadius>
+        <BBHScale>0.860322</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.999371" Y="-5.000000" Z="-11.254901" />
+        <BoundingMax X="10.254101" Y="5.561743" Z="9.962121" />
+        <BoundingCenter X="1.127365" Y="0.280871" Z="-0.646390" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_HQ_M1130_CV_select_EP1</Name>
+        <File>ca\misc_e\wf\wf_hq_m1130_cv_select_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>900102356</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.585333</BBRadius>
+        <BBHScale>1.025640</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.196504" Y="-5.000000" Z="-12.342365" />
+        <BoundingMax X="15.568261" Y="6.239550" Z="10.828300" />
+        <BoundingCenter X="3.685879" Y="0.619775" Z="-0.757033" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_UAV_terminal_EAST_ep1</Name>
+        <File>ca\misc_e\wf\wf_uav_terminal_east_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>357921282</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.898106</BBRadius>
+        <BBHScale>0.679333</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.200807" Y="-1.387743" Z="-4.569680" />
+        <BoundingMax X="3.454086" Y="4.805820" Z="5.226531" />
+        <BoundingCenter X="0.126640" Y="1.709039" Z="0.328425" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_UAV_terminal_WEST_ep1</Name>
+        <File>ca\misc_e\wf\wf_uav_terminal_west_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-448812172</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.898106</BBRadius>
+        <BBHScale>0.679333</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.200807" Y="-1.387743" Z="-4.569680" />
+        <BoundingMax X="3.454086" Y="4.805820" Z="5.226531" />
+        <BoundingCenter X="0.126640" Y="1.709039" Z="0.328425" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_Vehicle_Service_Point_EAST_ep1</Name>
+        <File>ca\misc_e\wf\wf_vehicle_service_point_east_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1394378592</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.800979</BBRadius>
+        <BBHScale>1.163813</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.988509" Y="-1.387743" Z="-4.375426" />
+        <BoundingMax X="7.186372" Y="3.449500" Z="5.226531" />
+        <BoundingCenter X="1.598931" Y="1.030878" Z="0.425552" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WF_Vehicle_Service_Point_WEST_ep1</Name>
+        <File>ca\misc_e\wf\wf_vehicle_service_point_west_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2093855250</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.251147</BBRadius>
+        <BBHScale>0.648523</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.356889" Y="-1.387743" Z="-5.275764" />
+        <BoundingMax X="3.454086" Y="3.469978" Z="5.226531" />
+        <BoundingCenter X="0.048599" Y="1.041118" Z="-0.024616" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>76n6_ClamShell</Name>
+        <File>ca\misc_e\76n6_clamshell.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1804501309</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.336511</BBRadius>
+        <BBHScale>1.006158</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.387850" Y="-0.099001" Z="-5.036510" />
+        <BoundingMax X="8.387840" Y="37.621002" Z="11.636512" />
+        <BoundingCenter X="-0.000005" Y="18.761002" Z="3.300001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>76n6_ClamShell_EP1</Name>
+        <File>ca\misc_e\76n6_clamshell_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-40790966</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.336511</BBRadius>
+        <BBHScale>1.006158</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.387850" Y="-0.099001" Z="-5.036510" />
+        <BoundingMax X="8.387840" Y="37.621002" Z="11.636512" />
+        <BoundingCenter X="-0.000005" Y="18.761002" Z="3.300001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>76n6_ClamShel_EP1</Name>
+        <File>ca\misc_e\76n6_clamshel_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>556772208</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.336511</BBRadius>
+        <BBHScale>1.006158</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.387850" Y="-0.099001" Z="-5.036510" />
+        <BoundingMax X="8.387840" Y="37.621002" Z="11.636512" />
+        <BoundingCenter X="-0.000005" Y="18.761002" Z="3.300001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>arrow_down_EP1</Name>
+        <File>ca\misc_e\arrow_down_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>60759743</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.073042</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.073042" Y="-0.001781" Z="-0.073042" />
+        <BoundingMax X="0.073042" Y="0.383588" Z="0.073042" />
+        <BoundingCenter X="0.000000" Y="0.190903" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>arrow_down_large_EP1</Name>
+        <File>ca\misc_e\arrow_down_large_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-209210597</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.292169</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.292169" Y="0.000000" Z="-0.292169" />
+        <BoundingMax X="0.292169" Y="1.541477" Z="0.292169" />
+        <BoundingCenter X="0.000000" Y="0.770739" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Astan_ep1</Name>
+        <File>ca\misc_e\astan_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-226130602</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.536090</BBRadius>
+        <BBHScale>0.941496</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.690248" Y="-0.063305" Z="-1.490328" />
+        <BoundingMax X="1.202196" Y="1.301796" Z="1.581852" />
+        <BoundingCenter X="-0.244026" Y="0.619245" Z="0.045762" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BagFenceCorner_EP1</Name>
+        <File>ca\misc_e\bagfencecorner_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1300317189</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.475756</BBRadius>
+        <BBHScale>1.313174</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.040220" Y="-0.020843" Z="-0.726675" />
+        <BoundingMax X="0.209281" Y="0.896915" Z="0.224837" />
+        <BoundingCenter X="-0.415470" Y="0.438036" Z="-0.250919" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BagFenceEnd_EP1</Name>
+        <File>ca\misc_e\bagfenceend_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-333403079</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.213816</BBRadius>
+        <BBHScale>2.177947</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.040220" Y="-0.002319" Z="-0.202795" />
+        <BoundingMax X="-0.108860" Y="0.862536" Z="0.224837" />
+        <BoundingCenter X="-0.574540" Y="0.430109" Z="0.011021" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BagFenceLong_EP1</Name>
+        <File>ca\misc_e\bagfencelong_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-982613524</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.250144</BBRadius>
+        <BBHScale>6.254997</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.566790" Y="-0.011934" Z="-0.264561" />
+        <BoundingMax X="1.562510" Y="0.896915" Z="0.235727" />
+        <BoundingCenter X="-0.002140" Y="0.442491" Z="-0.014417" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BagFenceRound_EP1</Name>
+        <File>ca\misc_e\bagfenceround_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1994455284</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.504965</BBRadius>
+        <BBHScale>2.868942</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.413510" Y="-0.011934" Z="-0.176162" />
+        <BoundingMax X="1.483918" Y="0.896915" Z="0.833767" />
+        <BoundingCenter X="0.035204" Y="0.442491" Z="0.328803" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BagFenceShort_EP1</Name>
+        <File>ca\misc_e\bagfenceshort_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2033370842</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.234173</BBRadius>
+        <BBHScale>3.972131</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.939180" Y="-0.010917" Z="-0.227745" />
+        <BoundingMax X="0.921148" Y="0.896915" Z="0.240600" />
+        <BoundingCenter X="-0.009016" Y="0.442999" Z="0.006427" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Barrack2_ep1</Name>
+        <File>ca\misc_e\barrack2_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-699119377</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.407241</BBRadius>
+        <BBHScale>0.479306</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.071030" Y="-1.221850" Z="-7.429809" />
+        <BoundingMax X="3.071030" Y="3.677930" Z="5.384673" />
+        <BoundingCenter X="0.000000" Y="1.228040" Z="-1.022568" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bleacher</Name>
+        <File>ca\misc_e\bleacher.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1957897816</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.982040</BBRadius>
+        <BBHScale>1.022111</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.827570" Y="-0.001773" Z="-0.764930" />
+        <BoundingMax X="2.224160" Y="1.788840" Z="3.199150" />
+        <BoundingCenter X="0.198295" Y="0.893534" Z="1.217110" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>C130J_static</Name>
+        <File>ca\misc_e\c130j_static.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>793176142</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>14.921301</BBRadius>
+        <BBHScale>1.334508</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-19.912601" Y="0.523520" Z="-15.020601" />
+        <BoundingMax X="19.912601" Y="11.564901" Z="14.822001" />
+        <BoundingCenter X="0.000000" Y="6.044210" Z="-0.099300" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>CamoNetB_EAST_ep1</Name>
+        <File>ca\misc_e\camonetb_east_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1078110434</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.421951</BBRadius>
+        <BBHScale>1.168232</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.793555" Y="-1.825782" Z="-8.157540" />
+        <BoundingMax X="9.884030" Y="5.965656" Z="8.686362" />
+        <BoundingCenter X="0.045238" Y="2.069937" Z="0.264411" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>CamoNetB_NATO_ep1</Name>
+        <File>ca\misc_e\camonetb_nato_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1038818575</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.421951</BBRadius>
+        <BBHScale>1.168232</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.793555" Y="-1.825782" Z="-8.157540" />
+        <BoundingMax X="9.884030" Y="5.965656" Z="8.686362" />
+        <BoundingCenter X="0.045238" Y="2.069937" Z="0.264411" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>CamoNet_EAST_ep1</Name>
+        <File>ca\misc_e\camonet_east_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1935316570</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.174169</BBRadius>
+        <BBHScale>1.747126</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.268628" Y="-1.486329" Z="-4.373613" />
+        <BoundingMax X="7.316974" Y="3.997579" Z="3.974725" />
+        <BoundingCenter X="0.024173" Y="1.255625" Z="-0.199444" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>CamoNet_EAST_var1_ep1</Name>
+        <File>ca\misc_e\camonet_east_var1_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>363088561</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.889915</BBRadius>
+        <BBHScale>1.831750</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.887644" Y="-1.670731" Z="-5.277260" />
+        <BoundingMax X="10.690058" Y="3.916077" Z="6.502570" />
+        <BoundingCenter X="-0.098793" Y="1.122673" Z="0.612655" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>CamoNet_NATO_ep1</Name>
+        <File>ca\misc_e\camonet_nato_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>181612439</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.174169</BBRadius>
+        <BBHScale>1.747126</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.268628" Y="-1.486329" Z="-4.373613" />
+        <BoundingMax X="7.316974" Y="3.997579" Z="3.974725" />
+        <BoundingCenter X="0.024173" Y="1.255625" Z="-0.199444" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>CamoNet_NATO_var1_ep1</Name>
+        <File>ca\misc_e\camonet_nato_var1_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>911495680</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.889915</BBRadius>
+        <BBHScale>1.831750</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.887644" Y="-1.670731" Z="-5.277260" />
+        <BoundingMax X="10.690058" Y="3.916077" Z="6.502570" />
+        <BoundingCenter X="-0.098793" Y="1.122673" Z="0.612655" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>CamoNet_Support_desert</Name>
+        <File>ca\misc_e\camonet_support_desert.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1470472089</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.148921</BBRadius>
+        <BBHScale>0.999066</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.115154" Y="-0.817962" Z="-0.140254" />
+        <BoundingMax X="0.182410" Y="3.610966" Z="0.157588" />
+        <BoundingCenter X="0.033628" Y="1.396502" Z="0.008667" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>clutterCutter_EP1</Name>
+        <File>ca\misc_e\cluttercutter_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-204942209</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.999168</BBRadius>
+        <BBHScale>0.995708</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.042084" Y="0.000000" Z="-10.042082" />
+        <BoundingMax X="9.870422" Y="0.000000" Z="9.956255" />
+        <BoundingCenter X="-0.085831" Y="0.000000" Z="-0.042913" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>clutterCutter_small_2_EP1</Name>
+        <File>ca\misc_e\cluttercutter_small_2_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1802855142</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.300000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.300000" Y="0.000000" Z="-1.300000" />
+        <BoundingMax X="1.300000" Y="0.000000" Z="1.300000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>clutterCutter_small_EP1</Name>
+        <File>ca\misc_e\cluttercutter_small_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1928857465</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.000000" Y="0.000000" Z="-2.000000" />
+        <BoundingMax X="2.000000" Y="0.000000" Z="2.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>dirthump01_ep1</Name>
+        <File>ca\misc_e\dirthump01_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>931005407</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.789223</BBRadius>
+        <BBHScale>1.993720</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.669495" Y="-0.998402" Z="-5.806479" />
+        <BoundingMax X="11.414686" Y="2.605058" Z="5.771967" />
+        <BoundingCenter X="-0.127404" Y="0.803328" Z="-0.017256" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>dirthump02_ep1</Name>
+        <File>ca\misc_e\dirthump02_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2070569696</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.676126</BBRadius>
+        <BBHScale>2.506278</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-14.245667" Y="-0.840182" Z="-5.675958" />
+        <BoundingMax X="14.206230" Y="3.409184" Z="5.676293" />
+        <BoundingCenter X="-0.019718" Y="1.284501" Z="0.000168" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>dirthump03_ep1</Name>
+        <File>ca\misc_e\dirthump03_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1084833311</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.469135</BBRadius>
+        <BBHScale>1.966675</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-14.625229" Y="-1.777000" Z="-7.374867" />
+        <BoundingMax X="14.753494" Y="3.833712" Z="7.563403" />
+        <BoundingCenter X="0.064133" Y="1.028356" Z="0.094268" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>dirtmount</Name>
+        <File>ca\misc_e\dirtmount.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>363761010</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.634185</BBRadius>
+        <BBHScale>1.895003</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.173000" Y="-1.230580" Z="-5.769890" />
+        <BoundingMax X="10.180599" Y="1.211510" Z="5.498480" />
+        <BoundingCenter X="-0.496201" Y="-0.009535" Z="-0.135705" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>fortified_nest_big_ep1</Name>
+        <File>ca\misc_e\fortified_nest_big_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1018002625</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.085945</BBRadius>
+        <BBHScale>0.907416</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.058160" Y="-0.804696" Z="-3.358610" />
+        <BoundingMax X="5.986810" Y="2.644940" Z="8.813279" />
+        <BoundingCenter X="0.464325" Y="0.920122" Z="2.727334" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>fortified_nest_small_ep1</Name>
+        <File>ca\misc_e\fortified_nest_small_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1712361542</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.844765</BBRadius>
+        <BBHScale>0.879039</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.959550" Y="-0.293268" Z="-2.228240" />
+        <BoundingMax X="3.041770" Y="2.224530" Z="3.461289" />
+        <BoundingCenter X="0.541110" Y="0.965631" Z="0.616525" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>fort_artillery_nest_ep1</Name>
+        <File>ca\misc_e\fort_artillery_nest_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1735051916</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.998240</BBRadius>
+        <BBHScale>1.302490</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-14.325100" Y="-1.272210" Z="-14.359800" />
+        <BoundingMax X="14.325100" Y="1.642550" Z="7.636681" />
+        <BoundingCenter X="0.000000" Y="0.185170" Z="-3.361560" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>fort_bagfence_corner_EP1</Name>
+        <File>ca\misc_e\fort_bagfence_corner_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1634336478</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.152475</BBRadius>
+        <BBHScale>0.999415</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.937880" Y="-0.184948" Z="-1.497920" />
+        <BoundingMax X="2.364550" Y="0.940366" Z="2.807030" />
+        <BoundingCenter X="0.213335" Y="0.377709" Z="0.654555" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>fort_bagfence_long_EP1</Name>
+        <File>ca\misc_e\fort_bagfence_long_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1451186501</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.779776</BBRadius>
+        <BBHScale>2.755011</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.132960" Y="-0.184948" Z="-0.765848" />
+        <BoundingMax X="2.163620" Y="0.940366" Z="0.793703" />
+        <BoundingCenter X="0.015330" Y="0.377709" Z="0.013927" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>fort_bagfence_round_EP1</Name>
+        <File>ca\misc_e\fort_bagfence_round_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>329057779</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.265405</BBRadius>
+        <BBHScale>1.782315</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.040030" Y="-0.353274" Z="-3.351240" />
+        <BoundingMax X="4.035300" Y="0.940366" Z="1.179570" />
+        <BoundingCenter X="-0.002365" Y="0.293546" Z="-1.085835" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Fort_Barricade_ep1</Name>
+        <File>ca\misc_e\fort_barricade_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>554959452</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.320920</BBRadius>
+        <BBHScale>2.700664</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.287180" Y="-0.701241" Z="-2.197220" />
+        <BoundingMax X="6.248870" Y="2.033990" Z="2.444620" />
+        <BoundingCenter X="-0.019155" Y="0.666375" Z="0.123700" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Fort_EnvelopeBig_ep1</Name>
+        <File>ca\misc_e\fort_envelopebig_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-246411325</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.523572</BBRadius>
+        <BBHScale>1.252518</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.229278" Y="-0.223609" Z="-3.682374" />
+        <BoundingMax X="3.092360" Y="0.522322" Z="1.364770" />
+        <BoundingCenter X="-0.068459" Y="0.149357" Z="-1.158802" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Fort_EnvelopeSmall_ep1</Name>
+        <File>ca\misc_e\fort_envelopesmall_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1761076534</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.218080</BBRadius>
+        <BBHScale>0.564350</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.801565" Y="-0.630969" Z="-3.833490" />
+        <BoundingMax X="1.830680" Y="0.459039" Z="2.602670" />
+        <BoundingCenter X="0.014557" Y="-0.085965" Z="-0.615410" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>fort_rampart_ep1</Name>
+        <File>ca\misc_e\fort_rampart_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1560766116</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.631615</BBRadius>
+        <BBHScale>1.913485</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.949040" Y="-1.272210" Z="-5.857080" />
+        <BoundingMax X="6.949040" Y="1.552110" Z="1.406150" />
+        <BoundingCenter X="0.000000" Y="0.139950" Z="-2.225465" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>fort_watchtower_ep1</Name>
+        <File>ca\misc_e\fort_watchtower_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2059485525</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.915118</BBRadius>
+        <BBHScale>0.650694</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.181380" Y="-0.624895" Z="-4.182570" />
+        <BoundingMax X="3.215100" Y="5.048500" Z="5.647667" />
+        <BoundingCenter X="0.016860" Y="2.211802" Z="0.732549" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Fuel_tank_stairs_ep1</Name>
+        <File>ca\misc_e\fuel_tank_stairs_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-926603555</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.259247</BBRadius>
+        <BBHScale>3.548210</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.441060" Y="-0.303857" Z="-1.225260" />
+        <BoundingMax X="0.495086" Y="3.023612" Z="1.293234" />
+        <BoundingCenter X="-3.972987" Y="1.359878" Z="0.033987" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>GuardShed_ep1</Name>
+        <File>ca\misc_e\guardshed_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1540791552</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.997285</BBRadius>
+        <BBHScale>0.858836</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.744972" Y="-1.328990" Z="-1.026870" />
+        <BoundingMax X="1.685707" Y="2.536670" Z="2.967700" />
+        <BoundingCenter X="-0.029632" Y="0.603840" Z="0.970415" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Gunrack1_ep1</Name>
+        <File>ca\misc_e\gunrack1_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>310824129</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.302420</BBRadius>
+        <BBHScale>1.272455</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.598648" Y="0.000000" Z="-1.202279" />
+        <BoundingMax X="1.715894" Y="1.009557" Z="1.402560" />
+        <BoundingCenter X="0.058623" Y="0.504778" Z="0.100141" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Gunrack2_ep1</Name>
+        <File>ca\misc_e\gunrack2_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1450388418</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.971296</BBRadius>
+        <BBHScale>1.223928</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.419715" Y="0.000000" Z="-0.551628" />
+        <BoundingMax X="1.957876" Y="0.969416" Z="1.390963" />
+        <BoundingCenter X="0.769080" Y="0.484708" Z="0.419667" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Hlidac_budka_ep1</Name>
+        <File>ca\misc_e\hlidac_budka_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1325810096</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.148858</BBRadius>
+        <BBHScale>1.118847</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.520430" Y="-1.339034" Z="-4.396545" />
+        <BoundingMax X="3.525748" Y="3.478315" Z="1.901171" />
+        <BoundingCenter X="0.002659" Y="1.069641" Z="-1.247687" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>HMMWV_Ghost_EP1</Name>
+        <File>ca\misc_e\hmmwv_ghost_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>869767998</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.301692</BBRadius>
+        <BBHScale>0.480086</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.105009" Y="-1.220046" Z="-2.498528" />
+        <BoundingMax X="1.105010" Y="0.672503" Z="2.104856" />
+        <BoundingCenter X="0.000000" Y="-0.273772" Z="-0.196836" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hrobecek_krizek2_ep1</Name>
+        <File>ca\misc_e\hrobecek_krizek2_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1574093187</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.195190</BBRadius>
+        <BBHScale>1.629067</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.316155" Y="-0.006784" Z="-0.210396" />
+        <BoundingMax X="0.319799" Y="0.923105" Z="0.179984" />
+        <BoundingCenter X="0.001822" Y="0.458160" Z="-0.015206" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hrobecek_krizekhelma_ep1</Name>
+        <File>ca\misc_e\hrobecek_krizekhelma_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-476134738</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.195190</BBRadius>
+        <BBHScale>1.629067</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.258303" Y="-0.011879" Z="-0.156679" />
+        <BoundingMax X="0.377651" Y="0.923105" Z="0.233701" />
+        <BoundingCenter X="0.059674" Y="0.455613" Z="0.038511" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ind_TankSmall2_ep1</Name>
+        <File>ca\misc_e\ind_tanksmall2_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>26204124</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.274433</BBRadius>
+        <BBHScale>2.391941</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.047007" Y="-0.073882" Z="-1.240160" />
+        <BoundingMax X="3.049730" Y="2.788970" Z="1.308706" />
+        <BoundingCenter X="0.001362" Y="1.357544" Z="0.034273" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>infostand_1</Name>
+        <File>ca\misc_e\infostand_1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1180799770</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.179323</BBRadius>
+        <BBHScale>0.898962</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.168433" Y="0.000000" Z="-0.155650" />
+        <BoundingMax X="0.153977" Y="1.145700" Z="0.202997" />
+        <BoundingCenter X="-0.007228" Y="0.572850" Z="0.023674" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>infostand_2</Name>
+        <File>ca\misc_e\infostand_2.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1180799771</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.215804</BBRadius>
+        <BBHScale>1.274307</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.275000" Y="-0.003644" Z="-0.178489" />
+        <BoundingMax X="0.275000" Y="1.159820" Z="0.253118" />
+        <BoundingCenter X="0.000000" Y="0.578088" Z="0.037314" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>jezek_kov_ep1</Name>
+        <File>ca\misc_e\jezek_kov_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1576284063</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.923438</BBRadius>
+        <BBHScale>1.056101</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.851869" Y="-0.158820" Z="-0.960480" />
+        <BoundingMax X="1.098617" Y="1.259939" Z="0.886396" />
+        <BoundingCenter X="0.123374" Y="0.550559" Z="-0.037042" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ladder_ep1</Name>
+        <File>ca\misc_e\ladder_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1644042551</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.814757</BBRadius>
+        <BBHScale>0.613680</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.500000" Y="-0.019167" Z="-1.227222" />
+        <BoundingMax X="0.500000" Y="7.864810" Z="0.402293" />
+        <BoundingCenter X="0.000000" Y="3.922822" Z="-0.412464" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ladder_half_ep1</Name>
+        <File>ca\misc_e\ladder_half_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1966930793</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.814757</BBRadius>
+        <BBHScale>0.613680</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.500000" Y="-3.259167" Z="-1.227222" />
+        <BoundingMax X="0.500000" Y="4.627172" Z="0.402293" />
+        <BoundingCenter X="0.000000" Y="0.684003" Z="-0.412464" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Map_for_briefing</Name>
+        <File>ca\misc_e\map_for_briefing.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1487784959</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.039163</BBRadius>
+        <BBHScale>19.228081</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.788142" Y="-0.666676" Z="-0.034751" />
+        <BoundingMax X="0.717925" Y="0.495376" Z="0.043575" />
+        <BoundingCenter X="-0.035109" Y="-0.085650" Z="0.004412" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Map_for_briefing_ep1</Name>
+        <File>ca\misc_e\map_for_briefing_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-759282808</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.038975</BBRadius>
+        <BBHScale>19.228083</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.784297" Y="-0.663329" Z="-0.034630" />
+        <BoundingMax X="0.714530" Y="0.493136" Z="0.043320" />
+        <BoundingCenter X="-0.034884" Y="-0.085096" Z="0.004345" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MASH_ep1</Name>
+        <File>ca\misc_e\mash_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>776664432</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.887570</BBRadius>
+        <BBHScale>0.822675</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.732523" Y="-0.255198" Z="-3.305324" />
+        <BoundingMax X="2.663889" Y="2.614201" Z="4.469817" />
+        <BoundingCenter X="-0.534317" Y="1.179501" Z="0.582246" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Mikrofon_EP1</Name>
+        <File>ca\misc_e\mikrofon_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1670973600</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.022703</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.022703" Y="-0.087478" Z="-0.022703" />
+        <BoundingMax X="0.022703" Y="0.091761" Z="0.022703" />
+        <BoundingCenter X="0.000000" Y="0.002141" Z="-0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Mikrofon_ws_EP1</Name>
+        <File>ca\misc_e\mikrofon_ws_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>107949769</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.029593</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.029593" Y="-0.087478" Z="-0.029593" />
+        <BoundingMax X="0.029593" Y="0.105795" Z="0.029593" />
+        <BoundingCenter X="0.000000" Y="0.009159" Z="-0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Mikrofon_ws_logo_EP1</Name>
+        <File>ca\misc_e\mikrofon_ws_logo_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1421021039</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.035925</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.035925" Y="-0.087478" Z="-0.035925" />
+        <BoundingMax X="0.035925" Y="0.105795" Z="0.035925" />
+        <BoundingCenter X="0.000000" Y="0.009159" Z="-0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Backpackheap_ep1</Name>
+        <File>ca\misc_e\misc_backpackheap_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2060096314</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.987583</BBRadius>
+        <BBHScale>0.963239</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.824949" Y="-0.129469" Z="-0.967015" />
+        <BoundingMax X="1.077608" Y="0.714492" Z="1.008151" />
+        <BoundingCenter X="0.126330" Y="0.292512" Z="0.020568" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Cargo1Ao_EP1</Name>
+        <File>ca\misc_e\misc_cargo1ao_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-939969507</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.673352</BBRadius>
+        <BBHScale>0.322437</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.575768" Y="-0.181609" Z="-4.813426" />
+        <BoundingMax X="1.437955" Y="2.600090" Z="4.533278" />
+        <BoundingCenter X="-0.068907" Y="1.209240" Z="-0.140074" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Cargo1A_EP1</Name>
+        <File>ca\misc_e\misc_cargo1a_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1951435616</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.286239</BBRadius>
+        <BBHScale>0.404859</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.329213" Y="-0.065953" Z="-3.384629" />
+        <BoundingMax X="1.331710" Y="2.601720" Z="3.187848" />
+        <BoundingCenter X="0.001249" Y="1.267884" Z="-0.098391" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Cargo1A_ruins_EP1</Name>
+        <File>ca\misc_e\misc_cargo1a_ruins_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1528952492</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.026138</BBRadius>
+        <BBHScale>0.877742</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.614251" Y="-1.596360" Z="-6.175329" />
+        <BoundingMax X="4.964537" Y="1.016330" Z="5.876947" />
+        <BoundingCenter X="-0.324857" Y="-0.290015" Z="-0.149191" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Cargo1Bo_EP1</Name>
+        <File>ca\misc_e\misc_cargo1bo_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-567962276</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.673352</BBRadius>
+        <BBHScale>0.322437</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.575768" Y="-0.181609" Z="-4.813426" />
+        <BoundingMax X="1.437955" Y="2.600090" Z="4.533278" />
+        <BoundingCenter X="-0.068907" Y="1.209240" Z="-0.140074" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Cargo1B_EP1</Name>
+        <File>ca\misc_e\misc_cargo1b_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-811871327</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.286239</BBRadius>
+        <BBHScale>0.404859</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.329213" Y="-0.065953" Z="-3.384629" />
+        <BoundingMax X="1.331710" Y="2.601720" Z="3.187848" />
+        <BoundingCenter X="0.001249" Y="1.267884" Z="-0.098391" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Cargo1C_EP1</Name>
+        <File>ca\misc_e\misc_cargo1c_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>327692962</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.286239</BBRadius>
+        <BBHScale>0.404859</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.329213" Y="-0.065953" Z="-3.384629" />
+        <BoundingMax X="1.331710" Y="2.601720" Z="3.187848" />
+        <BoundingCenter X="0.001249" Y="1.267884" Z="-0.098391" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Cargo1D_EP1</Name>
+        <File>ca\misc_e\misc_cargo1d_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1467257251</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.286239</BBRadius>
+        <BBHScale>0.404859</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.329213" Y="-0.065953" Z="-3.384629" />
+        <BoundingMax X="1.331710" Y="2.601720" Z="3.187848" />
+        <BoundingCenter X="0.001249" Y="1.267884" Z="-0.098391" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Cargo1Eo_EP1</Name>
+        <File>ca\misc_e\misc_cargo1eo_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>548059417</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.673352</BBRadius>
+        <BBHScale>0.322437</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.575768" Y="-0.181609" Z="-4.813426" />
+        <BoundingMax X="1.437955" Y="2.600090" Z="4.533278" />
+        <BoundingCenter X="-0.068907" Y="1.209240" Z="-0.140074" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Cargo1E_EP1</Name>
+        <File>ca\misc_e\misc_cargo1e_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1688145756</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.286239</BBRadius>
+        <BBHScale>0.404859</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.329213" Y="-0.065953" Z="-3.384629" />
+        <BoundingMax X="1.331710" Y="2.601720" Z="3.187848" />
+        <BoundingCenter X="0.001249" Y="1.267884" Z="-0.098391" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Cargo2A_EP1</Name>
+        <File>ca\misc_e\misc_cargo2a_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1579428385</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.286239</BBRadius>
+        <BBHScale>0.406273</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.238510" Y="-0.065953" Z="-3.384629" />
+        <BoundingMax X="1.431710" Y="5.151720" Z="3.187848" />
+        <BoundingCenter X="0.096600" Y="2.542883" Z="-0.098391" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Cargo2B_EP1</Name>
+        <File>ca\misc_e\misc_cargo2b_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-439864096</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.286239</BBRadius>
+        <BBHScale>0.406273</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.238510" Y="-0.065953" Z="-3.384629" />
+        <BoundingMax X="1.431710" Y="5.151720" Z="3.187848" />
+        <BoundingCenter X="0.096600" Y="2.542883" Z="-0.098391" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Cargo2C_EP1</Name>
+        <File>ca\misc_e\misc_cargo2c_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>699700193</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.286239</BBRadius>
+        <BBHScale>0.406273</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.238510" Y="-0.065953" Z="-3.384629" />
+        <BoundingMax X="1.431710" Y="5.151720" Z="3.187848" />
+        <BoundingCenter X="0.096600" Y="2.542883" Z="-0.098391" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Cargo2D_EP1</Name>
+        <File>ca\misc_e\misc_cargo2d_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1839264482</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.286239</BBRadius>
+        <BBHScale>0.406273</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.238510" Y="-0.065953" Z="-3.384629" />
+        <BoundingMax X="1.431710" Y="5.151720" Z="3.187848" />
+        <BoundingCenter X="0.096600" Y="2.542883" Z="-0.098391" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Cargo2E_EP1</Name>
+        <File>ca\misc_e\misc_cargo2e_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1316138525</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.286239</BBRadius>
+        <BBHScale>0.406273</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.238510" Y="-0.065953" Z="-3.384629" />
+        <BoundingMax X="1.431710" Y="5.151720" Z="3.187848" />
+        <BoundingCenter X="0.096600" Y="2.542883" Z="-0.098391" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Cargo3Ao_EP1</Name>
+        <File>ca\misc_e\misc_cargo3ao_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1951338783</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.673352</BBRadius>
+        <BBHScale>0.322437</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.575768" Y="-0.181609" Z="-4.813426" />
+        <BoundingMax X="1.437955" Y="2.600090" Z="4.533278" />
+        <BoundingCenter X="-0.068907" Y="1.209240" Z="-0.140074" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Cargo3A_EP1</Name>
+        <File>ca\misc_e\misc_cargo3a_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1207421154</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.286239</BBRadius>
+        <BBHScale>0.404859</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.329213" Y="-0.065953" Z="-3.384629" />
+        <BoundingMax X="1.331710" Y="2.601720" Z="3.187848" />
+        <BoundingCenter X="0.001249" Y="1.267884" Z="-0.098391" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Cargo3Bo_EP1</Name>
+        <File>ca\misc_e\misc_cargo3bo_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1971621282</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.673352</BBRadius>
+        <BBHScale>0.322437</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.575768" Y="-0.181609" Z="-4.813426" />
+        <BoundingMax X="1.437955" Y="2.600090" Z="4.533278" />
+        <BoundingCenter X="-0.068907" Y="1.209240" Z="-0.140074" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Cargo3B_EP1</Name>
+        <File>ca\misc_e\misc_cargo3b_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-67856865</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.286239</BBRadius>
+        <BBHScale>0.404859</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.329213" Y="-0.065953" Z="-3.384629" />
+        <BoundingMax X="1.331710" Y="2.601720" Z="3.187848" />
+        <BoundingCenter X="0.001249" Y="1.267884" Z="-0.098391" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Cargo3C_EP1</Name>
+        <File>ca\misc_e\misc_cargo3c_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1071707424</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.286239</BBRadius>
+        <BBHScale>0.404859</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.329213" Y="-0.065953" Z="-3.384629" />
+        <BoundingMax X="1.331710" Y="2.601720" Z="3.187848" />
+        <BoundingCenter X="0.001249" Y="1.267884" Z="-0.098391" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Cargo3D_EP1</Name>
+        <File>ca\misc_e\misc_cargo3d_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2083695583</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.286239</BBRadius>
+        <BBHScale>0.404859</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.329213" Y="-0.065953" Z="-3.384629" />
+        <BoundingMax X="1.331710" Y="2.601720" Z="3.187848" />
+        <BoundingCenter X="0.001249" Y="1.267884" Z="-0.098391" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Cargo4A_EP1</Name>
+        <File>ca\misc_e\misc_cargo4a_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-835413923</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.286239</BBRadius>
+        <BBHScale>0.406273</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.238510" Y="-0.065953" Z="-3.384629" />
+        <BoundingMax X="1.431710" Y="5.151720" Z="3.187848" />
+        <BoundingCenter X="0.096600" Y="2.542883" Z="-0.098391" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Cargo4B_EP1</Name>
+        <File>ca\misc_e\misc_cargo4b_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>304150366</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.330669</BBRadius>
+        <BBHScale>0.433648</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.443091" Y="-0.065953" Z="-3.429060" />
+        <BoundingMax X="1.445588" Y="5.151720" Z="3.232279" />
+        <BoundingCenter X="0.001249" Y="2.542883" Z="-0.098391" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Cargo4C_EP1</Name>
+        <File>ca\misc_e\misc_cargo4c_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1443714655</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.286239</BBRadius>
+        <BBHScale>0.406273</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.238510" Y="-0.065953" Z="-3.384629" />
+        <BoundingMax X="1.431710" Y="5.151720" Z="3.187848" />
+        <BoundingCenter X="0.096600" Y="2.542883" Z="-0.098391" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Cargo4D_EP1</Name>
+        <File>ca\misc_e\misc_cargo4d_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1711688352</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.286239</BBRadius>
+        <BBHScale>0.404859</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.329213" Y="-0.065953" Z="-3.384629" />
+        <BoundingMax X="1.331710" Y="5.151720" Z="3.187848" />
+        <BoundingCenter X="0.001249" Y="2.542883" Z="-0.098391" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_Cargo4E_EP1</Name>
+        <File>ca\misc_e\misc_cargo4e_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-572124063</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.351366</BBRadius>
+        <BBHScale>0.447766</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.499378" Y="-0.065953" Z="-3.449757" />
+        <BoundingMax X="1.501876" Y="5.151720" Z="3.252975" />
+        <BoundingCenter X="0.001249" Y="2.542883" Z="-0.098391" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_CargoMarket1a_EP1</Name>
+        <File>ca\misc_e\misc_cargomarket1a_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-192465444</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.673352</BBRadius>
+        <BBHScale>0.372220</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.679054" Y="-0.181609" Z="-4.813426" />
+        <BoundingMax X="1.799979" Y="2.600090" Z="4.533278" />
+        <BoundingCenter X="0.060463" Y="1.209240" Z="-0.140074" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_cargo_cont_small_ep1</Name>
+        <File>ca\misc_e\misc_cargo_cont_small_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1581151721</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.374599</BBRadius>
+        <BBHScale>0.899222</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.238510" Y="-0.033183" Z="-1.391240" />
+        <BoundingMax X="1.233630" Y="2.587050" Z="1.357959" />
+        <BoundingCenter X="-0.002440" Y="1.276934" Z="-0.016641" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_TyreHeap_ep1</Name>
+        <File>ca\misc_e\misc_tyreheap_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1632540638</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.282399</BBRadius>
+        <BBHScale>1.326028</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.641315" Y="-0.417484" Z="-1.344121" />
+        <BoundingMax X="1.759679" Y="0.962173" Z="1.220677" />
+        <BoundingCenter X="0.059182" Y="0.272345" Z="-0.061722" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>nastenkaX_ep1</Name>
+        <File>ca\misc_e\nastenkax_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1625071212</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.353718</BBRadius>
+        <BBHScale>1.566677</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.557279" Y="-0.025218" Z="-0.345892" />
+        <BoundingMax X="0.551043" Y="1.791526" Z="0.361543" />
+        <BoundingCenter X="-0.003118" Y="0.883154" Z="0.007825" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>PowerGenerator</Name>
+        <File>ca\misc_e\powergenerator.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1010460978</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.098613</BBRadius>
+        <BBHScale>0.421872</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.460754" Y="-0.048946" Z="-1.116695" />
+        <BoundingMax X="0.466194" Y="1.488383" Z="1.080532" />
+        <BoundingCenter X="0.002720" Y="0.719719" Z="-0.018081" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>PowerGenerator_EP1</Name>
+        <File>ca\misc_e\powergenerator_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1828045141</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.098613</BBRadius>
+        <BBHScale>0.421872</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.460754" Y="-0.048946" Z="-1.116695" />
+        <BoundingMax X="0.466194" Y="1.488383" Z="1.080532" />
+        <BoundingCenter X="0.002720" Y="0.719719" Z="-0.018081" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>PowGen_Big</Name>
+        <File>ca\misc_e\powgen_big.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2053872729</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.801870</BBRadius>
+        <BBHScale>0.468440</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.978112" Y="-0.078753" Z="-4.517440" />
+        <BoundingMax X="1.583785" Y="3.129690" Z="3.086300" />
+        <BoundingCenter X="-0.197164" Y="1.525468" Z="-0.715570" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>PowGen_Big_EP1</Name>
+        <File>ca\misc_e\powgen_big_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1020156896</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.801870</BBRadius>
+        <BBHScale>0.468440</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.978112" Y="-0.078753" Z="-4.517440" />
+        <BoundingMax X="1.583785" Y="3.129690" Z="3.086300" />
+        <BoundingCenter X="-0.197164" Y="1.525468" Z="-0.715570" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>PowGen_Big_ruins_EP1</Name>
+        <File>ca\misc_e\powgen_big_ruins_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-953025044</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.216115</BBRadius>
+        <BBHScale>0.652639</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.002600" Y="-1.318920" Z="-3.427610" />
+        <BoundingMax X="2.195324" Y="2.886893" Z="3.004620" />
+        <BoundingCenter X="0.096362" Y="0.783987" Z="-0.211495" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>protectionZone</Name>
+        <File>ca\misc_e\protectionzone.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>234406981</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>24.500000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-24.500000" Y="-19.000000" Z="-24.500000" />
+        <BoundingMax X="24.500000" Y="28.500000" Z="24.500000" />
+        <BoundingCenter X="0.000000" Y="4.750000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sign_circle_ep1</Name>
+        <File>ca\misc_e\sign_circle_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2002227545</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.738634</BBRadius>
+        <BBHScale>21.411131</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.814981" Y="-15.814981" Z="-0.738634" />
+        <BoundingMax X="15.814981" Y="15.814981" Z="0.738634" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sign_EP1</Name>
+        <File>ca\misc_e\sign_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1706273020</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.035197</BBRadius>
+        <BBHScale>7.268923</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.259346" Y="-1.500150" Z="-0.048251" />
+        <BoundingMax X="0.252345" Y="1.500150" Z="0.022143" />
+        <BoundingCenter X="-0.003500" Y="0.000000" Z="-0.013054" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sphere100cm_EP1</Name>
+        <File>ca\misc_e\sphere100cm_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1419767573</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.499385</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.499385" Y="-0.500000" Z="-0.499385" />
+        <BoundingMax X="0.499385" Y="0.500000" Z="0.499385" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sphere10cm_EP1</Name>
+        <File>ca\misc_e\sphere10cm_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1039348413</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.050000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.050000" Y="-0.050000" Z="-0.050000" />
+        <BoundingMax X="0.050000" Y="0.050000" Z="0.050000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sphere25cm_EP1</Name>
+        <File>ca\misc_e\sphere25cm_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>266046721</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.125000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.125000" Y="-0.125000" Z="-0.125000" />
+        <BoundingMax X="0.125000" Y="0.125000" Z="0.125000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sphere500cm_EP1</Name>
+        <File>ca\misc_e\sphere500cm_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1593383143</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.993855</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.993855" Y="-5.000000" Z="-4.993855" />
+        <BoundingMax X="4.993855" Y="5.000000" Z="4.993855" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SS_hangar_ep1</Name>
+        <File>ca\misc_e\ss_hangar_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>65885161</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.796730</BBRadius>
+        <BBHScale>0.616661</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.907827" Y="-0.900416" Z="-27.434425" />
+        <BoundingMax X="15.907846" Y="12.809829" Z="24.159035" />
+        <BoundingCenter X="0.000010" Y="5.954706" Z="-1.637695" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Stan_east_ep1</Name>
+        <File>ca\misc_e\stan_east_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1507371189</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.376601</BBRadius>
+        <BBHScale>0.826221</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.268483" Y="-0.085508" Z="-6.137060" />
+        <BoundingMax X="5.268482" Y="2.789358" Z="6.616142" />
+        <BoundingCenter X="-0.000000" Y="1.351925" Z="0.239541" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Stan_ep1</Name>
+        <File>ca\misc_e\stan_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-154792139</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.797367</BBRadius>
+        <BBHScale>0.824484</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.732523" Y="-0.292214" Z="-3.124918" />
+        <BoundingMax X="2.529215" Y="2.614201" Z="4.469817" />
+        <BoundingCenter X="-0.601654" Y="1.160993" Z="0.672449" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>tent2_west_EP1</Name>
+        <File>ca\misc_e\tent2_west_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>467613210</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.723120</BBRadius>
+        <BBHScale>0.756262</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.326162" Y="0.000000" Z="-5.366140" />
+        <BoundingMax X="5.355240" Y="3.158882" Z="10.080100" />
+        <BoundingCenter X="-0.485461" Y="1.579441" Z="2.356980" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>tent_east_ep1</Name>
+        <File>ca\misc_e\tent_east_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1351731628</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.311113</BBRadius>
+        <BBHScale>1.624446</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.001848" Y="-0.456835" Z="-4.312512" />
+        <BoundingMax X="7.004492" Y="3.968390" Z="4.309714" />
+        <BoundingCenter X="0.001322" Y="1.755778" Z="-0.001399" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>training_target_ep1</Name>
+        <File>ca\misc_e\training_target_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>811344733</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.031552</BBRadius>
+        <BBHScale>7.923409</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.250000" Y="-0.249507" Z="-0.366273" />
+        <BoundingMax X="0.250000" Y="0.249507" Z="-0.303168" />
+        <BoundingCenter X="0.000000" Y="-0.000000" Z="-0.334720" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>vysilac_FM2_ep1</Name>
+        <File>ca\misc_e\vysilac_fm2_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>845076104</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.682642</BBRadius>
+        <BBHScale>1.451218</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.979221" Y="-4.016909" Z="-6.158206" />
+        <BoundingMax X="5.709412" Y="16.835707" Z="1.207078" />
+        <BoundingCenter X="0.365096" Y="6.409399" Z="-2.475564" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>waterbasin_conc</Name>
+        <File>ca\misc_e\waterbasin_conc.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1652602622</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>20.399050</BBRadius>
+        <BBHScale>0.378565</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.846941" Y="-1.233160" Z="-23.088900" />
+        <BoundingMax X="7.597810" Y="2.000000" Z="17.709200" />
+        <BoundingCenter X="-0.124565" Y="0.383420" Z="-2.689850" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wreck_C130J</Name>
+        <File>ca\misc_e\wreck_c130j.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1242446574</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>14.870050</BBRadius>
+        <BBHScale>1.331983</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-19.879200" Y="-1.039430" Z="-14.889501" />
+        <BoundingMax X="19.734100" Y="11.549800" Z="14.850600" />
+        <BoundingCenter X="-0.072550" Y="5.255185" Z="-0.019450" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wreck_C130J_ep1</Name>
+        <File>ca\misc_e\wreck_c130j_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1189028761</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.318241</BBRadius>
+        <BBHScale>0.782308</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-19.879200" Y="-0.681219" Z="-14.889503" />
+        <BoundingMax X="19.734100" Y="11.549800" Z="35.746979" />
+        <BoundingCenter X="-0.072550" Y="5.434290" Z="10.428738" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wreck_C130J_ep1_ruins</Name>
+        <File>ca\misc_e\wreck_c130j_ep1_ruins.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-669159003</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>15.019100</BBRadius>
+        <BBHScale>0.503510</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.798120" Y="-0.406074" Z="-15.092501" />
+        <BoundingMax X="7.326410" Y="6.249650" Z="14.945700" />
+        <BoundingCenter X="-0.235855" Y="2.921788" Z="-0.073400" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wreck_UH60</Name>
+        <File>ca\misc_e\wreck_uh60.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2117704698</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.614510</BBRadius>
+        <BBHScale>0.254221</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.696630" Y="-0.332350" Z="-6.405771" />
+        <BoundingMax X="2.174904" Y="4.218980" Z="8.823249" />
+        <BoundingCenter X="0.239137" Y="1.943315" Z="1.208739" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wreck_UH60_ep1</Name>
+        <File>ca\misc_e\wreck_uh60_ep1.p3d</File>
+        <Date>09/08/14 06:16:13</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1916333439</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.614510</BBRadius>
+        <BBHScale>0.254221</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.696630" Y="-0.332350" Z="-6.405771" />
+        <BoundingMax X="2.174904" Y="4.218980" Z="8.823249" />
+        <BoundingCenter X="0.239137" Y="1.943315" Z="1.208739" />
+        <Placement></Placement>
+    </Template>
+</Library>

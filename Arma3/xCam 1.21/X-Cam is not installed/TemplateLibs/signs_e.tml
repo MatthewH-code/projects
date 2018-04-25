@@ -1,0 +1,1884 @@
+<?xml version="1.0" ?>
+<Library name="signs_e" shape="rectangle" default_fill="-16776961" default_outline="-1" tex="0">
+    <Template>
+        <Name>SignM_DirDrillingArea_F</Name>
+        <File>ca\signs_e\signm\signm_dirdrillingarea_f.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-698479207</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.099646</BBRadius>
+        <BBHScale>10.667525</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.074390" Y="-0.286799" Z="-0.055012" />
+        <BoundingMax X="1.051560" Y="1.883810" Z="0.144279" />
+        <BoundingCenter X="-0.011415" Y="0.798506" Z="0.044634" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignM_DirDrillingArea_L</Name>
+        <File>ca\signs_e\signm\signm_dirdrillingarea_l.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-698479201</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.099646</BBRadius>
+        <BBHScale>10.667525</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.074390" Y="-0.286799" Z="-0.055012" />
+        <BoundingMax X="1.051560" Y="1.885875" Z="0.144279" />
+        <BoundingCenter X="-0.011415" Y="0.799538" Z="0.044634" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignM_DirDrillingArea_R</Name>
+        <File>ca\signs_e\signm\signm_dirdrillingarea_r.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-698479195</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.099646</BBRadius>
+        <BBHScale>10.667525</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.074390" Y="-0.286799" Z="-0.055012" />
+        <BoundingMax X="1.051560" Y="1.883810" Z="0.144279" />
+        <BoundingCenter X="-0.011415" Y="0.798506" Z="0.044634" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignM_DirMiningArea_F</Name>
+        <File>ca\signs_e\signm\signm_dirminingarea_f.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>223454338</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.099646</BBRadius>
+        <BBHScale>10.667525</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.074390" Y="-0.286799" Z="-0.055012" />
+        <BoundingMax X="1.051560" Y="1.883810" Z="0.144279" />
+        <BoundingCenter X="-0.011415" Y="0.798506" Z="0.044634" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignM_DirMiningArea_L</Name>
+        <File>ca\signs_e\signm\signm_dirminingarea_l.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>223454344</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.099646</BBRadius>
+        <BBHScale>10.667525</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.074390" Y="-0.286799" Z="-0.055012" />
+        <BoundingMax X="1.051560" Y="1.883810" Z="0.144279" />
+        <BoundingCenter X="-0.011415" Y="0.798506" Z="0.044634" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignM_DirMiningArea_R</Name>
+        <File>ca\signs_e\signm\signm_dirminingarea_r.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>223454350</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.099646</BBRadius>
+        <BBHScale>10.667525</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.074390" Y="-0.286799" Z="-0.055012" />
+        <BoundingMax X="1.051560" Y="1.883810" Z="0.144279" />
+        <BoundingCenter X="-0.011415" Y="0.798506" Z="0.044634" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignM_ImportantRoad_Karichar1</Name>
+        <File>ca\signs_e\signm\signm_importantroad_karichar1.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2113471842</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.099646</BBRadius>
+        <BBHScale>4.468051</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.446680" Y="-0.286799" Z="-0.083808" />
+        <BoundingMax X="0.443766" Y="1.053819" Z="0.115484" />
+        <BoundingCenter X="-0.001457" Y="0.383510" Z="0.015838" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignM_ImportantRoad_Karichar2</Name>
+        <File>ca\signs_e\signm\signm_importantroad_karichar2.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2113471843</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.099646</BBRadius>
+        <BBHScale>4.468051</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.446680" Y="-0.286799" Z="-0.083808" />
+        <BoundingMax X="0.443766" Y="1.053819" Z="0.115484" />
+        <BoundingCenter X="-0.001457" Y="0.383510" Z="0.015838" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignM_ImportantRoad_Takmyr1</Name>
+        <File>ca\signs_e\signm\signm_importantroad_takmyr1.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2052166019</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.099646</BBRadius>
+        <BBHScale>4.468051</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.446680" Y="-0.286799" Z="-0.083808" />
+        <BoundingMax X="0.443766" Y="1.053819" Z="0.115484" />
+        <BoundingCenter X="-0.001457" Y="0.383510" Z="0.015838" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignM_ImportantRoad_Takmyr2</Name>
+        <File>ca\signs_e\signm\signm_importantroad_takmyr2.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2052166018</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.099646</BBRadius>
+        <BBHScale>4.468051</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.446680" Y="-0.286799" Z="-0.083808" />
+        <BoundingMax X="0.443766" Y="1.053819" Z="0.115484" />
+        <BoundingCenter X="-0.001457" Y="0.383510" Z="0.015838" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignM_IndArea_Lalezar</Name>
+        <File>ca\signs_e\signm\signm_indarea_lalezar.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-314338853</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignM_IndArea_LoyManara</Name>
+        <File>ca\signs_e\signm\signm_indarea_loymanara.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1204456726</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignM_IndArea_Nagara</Name>
+        <File>ca\signs_e\signm\signm_indarea_nagara.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-437587170</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignM_IndArea_PareSiah</Name>
+        <File>ca\signs_e\signm\signm_indarea_paresiah.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-199057789</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignM_IndArea_Zargabad</Name>
+        <File>ca\signs_e\signm\signm_indarea_zargabad.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1654213602</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignM_IndMine_FeeruzAbad</Name>
+        <File>ca\signs_e\signm\signm_indmine_feeruzabad.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-776140271</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignM_IndStorage</Name>
+        <File>ca\signs_e\signm\signm_indstorage.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-676311445</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignM_MilArea</Name>
+        <File>ca\signs_e\signm\signm_milarea.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1629130510</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.069234</BBRadius>
+        <BBHScale>5.035440</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.347144" Y="-0.238591" Z="-0.047057" />
+        <BoundingMax X="0.350103" Y="1.978042" Z="0.091411" />
+        <BoundingCenter X="0.001480" Y="0.869726" Z="0.022177" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignM_MilArea_D</Name>
+        <File>ca\signs_e\signm\signm_milarea_d.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-435748941</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.069234</BBRadius>
+        <BBHScale>5.035440</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.347144" Y="-0.238591" Z="-0.047057" />
+        <BoundingMax X="0.350103" Y="1.978042" Z="0.091411" />
+        <BoundingCenter X="0.001480" Y="0.869726" Z="0.022177" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignM_Mines</Name>
+        <File>ca\signs_e\signm\signm_mines.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1617684145</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.044094</BBRadius>
+        <BBHScale>7.808971</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.342851" Y="-0.200448" Z="-0.018311" />
+        <BoundingMax X="0.345810" Y="0.568627" Z="0.069877" />
+        <BoundingCenter X="0.001480" Y="0.184090" Z="0.025783" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignM_Pass_Muladoost</Name>
+        <File>ca\signs_e\signm\signm_pass_muladoost.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>148547049</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.099646</BBRadius>
+        <BBHScale>4.468051</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.446680" Y="-0.286799" Z="-0.083808" />
+        <BoundingMax X="0.443766" Y="1.053819" Z="0.115484" />
+        <BoundingCenter X="-0.001457" Y="0.383510" Z="0.015838" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignM_Pass_Timurkalay</Name>
+        <File>ca\signs_e\signm\signm_pass_timurkalay.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1104836072</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.099646</BBRadius>
+        <BBHScale>4.468051</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.446680" Y="-0.286799" Z="-0.083808" />
+        <BoundingMax X="0.443766" Y="1.053819" Z="0.115484" />
+        <BoundingCenter X="-0.001457" Y="0.383510" Z="0.015838" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignsS_Zargabad_End</Name>
+        <File>ca\signs_e\signs\signss_zargabad_end.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>514624382</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignsS_Zargabad_Start</Name>
+        <File>ca\signs_e\signs\signss_zargabad_start.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>103854341</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_Anar_End</Name>
+        <File>ca\signs_e\signs\signs_anar_end.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1354650557</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_Anar_Start</Name>
+        <File>ca\signs_e\signs\signs_anar_start.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1086865590</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_Bastam_End</Name>
+        <File>ca\signs_e\signs\signs_bastam_end.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>257019313</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_Bastam_Start</Name>
+        <File>ca\signs_e\signs\signs_bastam_start.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1921906248</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_ChakChak_End</Name>
+        <File>ca\signs_e\signs\signs_chakchak_end.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-445300893</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_ChakChak_Start</Name>
+        <File>ca\signs_e\signs\signs_chakchak_start.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2123612778</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_Chaman_End</Name>
+        <File>ca\signs_e\signs\signs_chaman_end.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2011044867</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_Chaman_Start</Name>
+        <File>ca\signs_e\signs\signs_chaman_start.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>18370314</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_Falar_End</Name>
+        <File>ca\signs_e\signs\signs_falar_end.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>268608981</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_Falar_Start</Name>
+        <File>ca\signs_e\signs\signs_falar_start.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1527705636</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_FeeruzAbad_End</Name>
+        <File>ca\signs_e\signs\signs_feeruzabad_end.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-733040806</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_FeeruzAbad_Start</Name>
+        <File>ca\signs_e\signs\signs_feeruzabad_start.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1287215391</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_Garmarud_End</Name>
+        <File>ca\signs_e\signs\signs_garmarud_end.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>309162842</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_Garmarud_Start</Name>
+        <File>ca\signs_e\signs\signs_garmarud_start.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1178823393</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_Garmsar_End</Name>
+        <File>ca\signs_e\signs\signs_garmsar_end.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>4130210</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_Garmsar_Start</Name>
+        <File>ca\signs_e\signs\signs_garmsar_start.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1675647273</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_Gospandi_End</Name>
+        <File>ca\signs_e\signs\signs_gospandi_end.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1533827196</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_Gospandi_Start</Name>
+        <File>ca\signs_e\signs\signs_gospandi_start.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-992092413</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_Karachinar_End</Name>
+        <File>ca\signs_e\signs\signs_karachinar_end.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1531258075</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_Karachinar_Start</Name>
+        <File>ca\signs_e\signs\signs_karachinar_start.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1639736020</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_LoyManara_End</Name>
+        <File>ca\signs_e\signs\signs_loymanara_end.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1912123967</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_LoyManara_Start</Name>
+        <File>ca\signs_e\signs\signs_loymanara_start.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1999403194</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_Nagara_End</Name>
+        <File>ca\signs_e\signs\signs_nagara_end.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>524083521</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_Nagara_Start</Name>
+        <File>ca\signs_e\signs\signs_nagara_start.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-101952184</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_Nur_End</Name>
+        <File>ca\signs_e\signs\signs_nur_end.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>690715006</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_Nur_Start</Name>
+        <File>ca\signs_e\signs\signs_nur_start.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-468148475</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_Rasman_End</Name>
+        <File>ca\signs_e\signs\signs_rasman_end.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1921135845</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_Rasman_Start</Name>
+        <File>ca\signs_e\signs\signs_rasman_start.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1872884258</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_Sakhee_End</Name>
+        <File>ca\signs_e\signs\signs_sakhee_end.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-321747760</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_Sakhee_Start</Name>
+        <File>ca\signs_e\signs\signs_sakhee_start.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-682942121</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_Zavarak_End</Name>
+        <File>ca\signs_e\signs\signs_zavarak_end.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1819844163</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignS_Zavarak_Start</Name>
+        <File>ca\signs_e\signs\signs_zavarak_start.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>772167620</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126386</BBRadius>
+        <BBHScale>10.697636</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363420" Y="-0.286799" Z="-0.097695" />
+        <BoundingMax X="1.340650" Y="2.624330" Z="0.155078" />
+        <BoundingCenter X="-0.011385" Y="1.168766" Z="0.028691" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SignT_DangerousRoad</Name>
+        <File>ca\signs_e\signt\signt_dangerousroad.p3d</File>
+        <Date>09/08/14 06:22:21</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1859133374</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.107852</BBRadius>
+        <BBHScale>4.166564</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.447425" Y="-0.165134" Z="-0.064517" />
+        <BoundingMax X="0.451319" Y="2.720390" Z="0.151187" />
+        <BoundingCenter X="0.001947" Y="1.277628" Z="0.043335" />
+        <Placement></Placement>
+    </Template>
+</Library>

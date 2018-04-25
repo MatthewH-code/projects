@@ -1,0 +1,27 @@
+X-Cam version 1.21
+
+simply replace "xCam.pbo" and the "xCam.pbo.xCam.bisign" with the new files.
+
+
+if you want to have 2 new colorsets, then:
+
+- copy "Grey_Update.ini" and "Mix_Update.ini" into: "...\Arma 3\@inidbi\db\xCam\Import"
+- start X-Cam
+- Press [Set] >>> Import/Export Data >>> press [IMP] >>> enter "Grey_Update" (without "") >>> hit [Ok]
+- Press [IMP] again >>> enter "Mix_Update" (without "") >>> hit [Ok]
+- Restart X-Cam
+
+
+if you want to have some basic MultiBrush configurations, then copy the "xCamMultiBrushs.ini" into "...\Arma 3\@inidbi\db\xCam"
+
+============================================================================================================
+
+X-Cam Homepage:  http://www.x-cam-editor.de/
+X-Cam Tutorials: http://www.x-cam-editor.de/home/x-cam-tutorial-videos/
+
+============================================================================================================
+
+make_file.dll(Killzone_Kid):http://killzonekid.com/arma-extension-make_file-dll-v1-0/
+iniDBI(code34): http://forums.bistudio.com/showthread.php?167927
+
+============================================================================================================

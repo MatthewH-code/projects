@@ -1,0 +1,1026 @@
+<?xml version="1.0" ?>
+<Library name="plants_e2" shape="rectangle" default_fill="-16711936" default_outline="-1" tex="0">
+    <Template>
+        <Name>b_betula2w_summer</Name>
+        <File>ca\plants_e2\bush\b_betula2w_summer.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1434530637</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.697267</BBRadius>
+        <BBHScale>1.157032</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.061792" Y="-0.570268" Z="-1.842068" />
+        <BoundingMax X="1.865790" Y="2.568970" Z="1.552465" />
+        <BoundingCenter X="-0.098001" Y="0.999351" Z="-0.144801" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>b_canina2s_summer</Name>
+        <File>ca\plants_e2\bush\b_canina2s_summer.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>162869572</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.670040</BBRadius>
+        <BBHScale>0.924684</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.711292" Y="-0.461060" Z="-1.787814" />
+        <BoundingMax X="1.377226" Y="1.971674" Z="1.552267" />
+        <BoundingCenter X="-0.167033" Y="0.755307" Z="-0.117774" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>b_corylus2s_summer</Name>
+        <File>ca\plants_e2\bush\b_corylus2s_summer.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-495659053</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.544207</BBRadius>
+        <BBHScale>0.998029</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.633484" Y="-0.735135" Z="-4.028742" />
+        <BoundingMax X="3.440961" Y="5.738097" Z="3.059672" />
+        <BoundingCenter X="-0.096262" Y="2.501481" Z="-0.484535" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>b_craet1_summer</Name>
+        <File>ca\plants_e2\bush\b_craet1_summer.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1905033695</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.097671</BBRadius>
+        <BBHScale>0.802062</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.964958" Y="-0.673387" Z="-2.174918" />
+        <BoundingMax X="1.399966" Y="3.302242" Z="2.020424" />
+        <BoundingCenter X="-0.282496" Y="1.314427" Z="-0.077247" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>b_sambucus_summer</Name>
+        <File>ca\plants_e2\bush\b_sambucus_summer.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1585362530</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.418928</BBRadius>
+        <BBHScale>1.052147</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.073158" Y="-0.184348" Z="-1.131880" />
+        <BoundingMax X="1.912682" Y="2.918975" Z="1.705976" />
+        <BoundingCenter X="0.419762" Y="1.367314" Z="0.287048" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_blueBerry_summer</Name>
+        <File>ca\plants_e2\clutter\c_blueberry_summer.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>292554126</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.630525</BBRadius>
+        <BBHScale>0.748690</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.472068" Y="-0.064944" Z="-0.637269" />
+        <BoundingMax X="0.472068" Y="0.320944" Z="0.623780" />
+        <BoundingCenter X="0.000000" Y="0.128000" Z="-0.006745" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_caluna_summer</Name>
+        <File>ca\plants_e2\clutter\c_caluna_summer.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>521815096</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.922529</BBRadius>
+        <BBHScale>0.777332</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.571827" Y="-0.057594" Z="-0.859994" />
+        <BoundingMax X="0.862397" Y="0.323582" Z="0.985065" />
+        <BoundingCenter X="0.145285" Y="0.132994" Z="0.062536" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_fernTall_summer</Name>
+        <File>ca\plants_e2\clutter\c_ferntall_summer.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2076369514</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.833730</BBRadius>
+        <BBHScale>1.011233</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.789961" Y="-0.119670" Z="-0.831025" />
+        <BoundingMax X="0.896228" Y="0.955458" Z="0.836434" />
+        <BoundingCenter X="0.053133" Y="0.417894" Z="0.002704" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_GrassCrookedGreen_summer</Name>
+        <File>ca\plants_e2\clutter\c_grasscrookedgreen_summer.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-87005076</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.171465</BBRadius>
+        <BBHScale>1.010627</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.256652" Y="-0.048657" Z="-1.185713" />
+        <BoundingMax X="1.111174" Y="0.341913" Z="1.157217" />
+        <BoundingCenter X="-0.072739" Y="0.146628" Z="-0.014248" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_GrassCrooked_summer</Name>
+        <File>ca\plants_e2\clutter\c_grasscrooked_summer.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-789129107</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.171465</BBRadius>
+        <BBHScale>1.010627</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.256652" Y="-0.048657" Z="-1.185713" />
+        <BoundingMax X="1.111174" Y="0.341913" Z="1.157217" />
+        <BoundingCenter X="-0.072739" Y="0.146628" Z="-0.014248" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_GrassTall_summer</Name>
+        <File>ca\plants_e2\clutter\c_grasstall_summer.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-200097625</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.692376</BBRadius>
+        <BBHScale>1.253242</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.928545" Y="-0.082809" Z="-0.639791" />
+        <BoundingMax X="0.806885" Y="1.317085" Z="0.744961" />
+        <BoundingCenter X="-0.060830" Y="0.617138" Z="0.052585" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_raspBerry_summer</Name>
+        <File>ca\plants_e2\clutter\c_raspberry_summer.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1476120704</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.562938</BBRadius>
+        <BBHScale>1.012583</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.744578" Y="-0.001038" Z="-1.609647" />
+        <BoundingMax X="1.420630" Y="0.167824" Z="1.516229" />
+        <BoundingCenter X="-0.161974" Y="0.083393" Z="-0.046709" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_raspBerr_summer</Name>
+        <File>ca\plants_e2\clutter\c_raspberr_summer.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1249975709</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.562938</BBRadius>
+        <BBHScale>1.012583</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.744578" Y="-0.001038" Z="-1.609647" />
+        <BoundingMax X="1.420630" Y="0.167824" Z="1.516229" />
+        <BoundingCenter X="-0.161974" Y="0.083393" Z="-0.046709" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_summer_flowers</Name>
+        <File>ca\plants_e2\clutter\c_summer_flowers.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1622184068</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.246461</BBRadius>
+        <BBHScale>0.803771</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.030015" Y="-0.177517" Z="-1.345415" />
+        <BoundingMax X="0.973724" Y="0.886928" Z="1.147507" />
+        <BoundingCenter X="-0.028145" Y="0.354705" Z="-0.098954" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_summer_smetanka</Name>
+        <File>ca\plants_e2\clutter\c_summer_smetanka.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>342628768</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.960813</BBRadius>
+        <BBHScale>0.994161</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.107304" Y="-0.057165" Z="-0.695806" />
+        <BoundingMax X="0.803101" Y="0.732482" Z="1.225819" />
+        <BoundingCenter X="-0.152102" Y="0.337658" Z="0.265007" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_summer_white_flower</Name>
+        <File>ca\plants_e2\clutter\c_summer_white_flower.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1917085851</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.752999</BBRadius>
+        <BBHScale>1.163338</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.900391" Y="-0.045174" Z="-0.717522" />
+        <BoundingMax X="0.851593" Y="0.832578" Z="0.788476" />
+        <BoundingCenter X="-0.024399" Y="0.393702" Z="0.035477" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>p_articum_summer</Name>
+        <File>ca\plants_e2\plants\p_articum_summer.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1821936008</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.200320</BBRadius>
+        <BBHScale>0.851858</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.540141" Y="-0.019952" Z="-1.212382" />
+        <BoundingMax X="0.504864" Y="0.579034" Z="1.188258" />
+        <BoundingCenter X="-0.517638" Y="0.279541" Z="-0.012062" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>p_carduus_summer</Name>
+        <File>ca\plants_e2\plants\p_carduus_summer.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-337670950</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.483195</BBRadius>
+        <BBHScale>0.902803</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.648904" Y="-0.067439" Z="-0.351953" />
+        <BoundingMax X="0.223555" Y="1.024138" Z="0.614436" />
+        <BoundingCenter X="-0.212674" Y="0.478349" Z="0.131242" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>p_Helianthus_summer</Name>
+        <File>ca\plants_e2\plants\p_helianthus_summer.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1088760410</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.241387</BBRadius>
+        <BBHScale>0.987804</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.207721" Y="-0.074784" Z="-0.216778" />
+        <BoundingMax X="0.269165" Y="1.036850" Z="0.265997" />
+        <BoundingCenter X="0.030722" Y="0.481033" Z="0.024610" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>p_heracleum_summer</Name>
+        <File>ca\plants_e2\plants\p_heracleum_summer.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1332777227</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.942554</BBRadius>
+        <BBHScale>1.294210</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.163915" Y="-0.162164" Z="-1.181897" />
+        <BoundingMax X="1.275810" Y="1.653762" Z="0.703211" />
+        <BoundingCenter X="0.055948" Y="0.745799" Z="-0.239343" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>p_Phragmites_summer</Name>
+        <File>ca\plants_e2\plants\p_phragmites_summer.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1502968935</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.361740</BBRadius>
+        <BBHScale>1.004513</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.564351" Y="-1.448548" Z="-2.274466" />
+        <BoundingMax X="2.180447" Y="1.990781" Z="2.449014" />
+        <BoundingCenter X="-0.191952" Y="0.271117" Z="0.087274" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>p_pumpkin2_summer</Name>
+        <File>ca\plants_e2\plants\p_pumpkin2_summer.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1670607669</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.712069</BBRadius>
+        <BBHScale>2.225311</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.058089" Y="-0.159756" Z="-0.618158" />
+        <BoundingMax X="0.111061" Y="0.538499" Z="0.805980" />
+        <BoundingCenter X="-1.473514" Y="0.189371" Z="0.093911" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>p_pumpkin_summer</Name>
+        <File>ca\plants_e2\plants\p_pumpkin_summer.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1118988341</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.712069</BBRadius>
+        <BBHScale>2.225311</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.058089" Y="-0.159756" Z="-0.618158" />
+        <BoundingMax X="0.111061" Y="0.538499" Z="0.805980" />
+        <BoundingCenter X="-1.473514" Y="0.189371" Z="0.093911" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_betula2f_summer</Name>
+        <File>ca\plants_e2\tree\t_betula2f_summer.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1748547350</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.984056</BBRadius>
+        <BBHScale>0.945678</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.576280" Y="-1.990376" Z="-6.700066" />
+        <BoundingMax X="5.741698" Y="23.454048" Z="5.268047" />
+        <BoundingCenter X="0.082709" Y="10.731836" Z="-0.716010" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_betula2s_summer</Name>
+        <File>ca\plants_e2\tree\t_betula2s_summer.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1340162615</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.861459</BBRadius>
+        <BBHScale>1.133563</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.819911" Y="-1.557266" Z="-7.653598" />
+        <BoundingMax X="6.735881" Y="20.542601" Z="6.069320" />
+        <BoundingCenter X="-1.042015" Y="9.492667" Z="-0.792139" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_fagus2f_summer</Name>
+        <File>ca\plants_e2\tree\t_fagus2f_summer.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-812132485</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.288309</BBRadius>
+        <BBHScale>0.989199</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.686710" Y="-3.778688" Z="-9.641634" />
+        <BoundingMax X="9.667667" Y="33.444424" Z="10.934984" />
+        <BoundingCenter X="-0.509521" Y="14.832868" Z="0.646675" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_fagus2s_summer</Name>
+        <File>ca\plants_e2\tree\t_fagus2s_summer.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>394124846</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.646643</BBRadius>
+        <BBHScale>0.953170</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.756003" Y="-1.117506" Z="-6.584549" />
+        <BoundingMax X="5.914757" Y="15.808516" Z="6.708736" />
+        <BoundingCenter X="-0.420623" Y="7.345505" Z="0.062094" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_malus1s_summer</Name>
+        <File>ca\plants_e2\tree\t_malus1s_summer.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1485900639</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.416392</BBRadius>
+        <BBHScale>0.941153</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.997683" Y="-1.348364" Z="-3.916820" />
+        <BoundingMax X="4.315315" Y="7.442997" Z="4.915965" />
+        <BoundingCenter X="0.158816" Y="3.047316" Z="0.499573" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_picea2s</Name>
+        <File>ca\plants_e2\tree\t_picea2s.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-976859396</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.998028</BBRadius>
+        <BBHScale>1.058172</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.414953" Y="-2.503050" Z="-4.947810" />
+        <BoundingMax X="5.162593" Y="18.611568" Z="5.048245" />
+        <BoundingCenter X="-0.126180" Y="8.054259" Z="0.050218" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_picea3f</Name>
+        <File>ca\plants_e2\tree\t_picea3f.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-976793810</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.383503</BBRadius>
+        <BBHScale>0.858255</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.599404" Y="-2.939444" Z="-4.982534" />
+        <BoundingMax X="4.641430" Y="26.075861" Z="5.784472" />
+        <BoundingCenter X="0.021013" Y="11.568209" Z="0.400969" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_quercus2f_summer</Name>
+        <File>ca\plants_e2\tree\t_quercus2f_summer.p3d</File>
+        <Date>09/08/14 06:19:54</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1982699</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.547602</BBRadius>
+        <BBHScale>0.993570</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.491905" Y="-2.480629" Z="-5.231684" />
+        <BoundingMax X="6.519097" Y="24.349062" Z="7.863521" />
+        <BoundingCenter X="0.013596" Y="10.934216" Z="1.315918" />
+        <Placement></Placement>
+    </Template>
+</Library>

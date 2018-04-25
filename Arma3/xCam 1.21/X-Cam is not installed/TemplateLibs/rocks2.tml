@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<Library name="rocks2" shape="rectangle" default_fill="-8355840" default_outline="-1" tex="0">
+    <Template>
+        <Name>R2_Boulder1</Name>
+        <File>ca\rocks2\r2_boulder1.p3d</File>
+        <Date>10/17/14 15:57:16</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-428421597</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.698160</BBRadius>
+        <BBHScale>1.151302</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.990741" Y="-0.967133" Z="-1.866960" />
+        <BoundingMax X="1.919450" Y="0.836295" Z="1.529361" />
+        <BoundingCenter X="-0.035645" Y="-0.065419" Z="-0.168800" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>R2_Boulder2</Name>
+        <File>ca\rocks2\r2_boulder2.p3d</File>
+        <Date>10/17/14 15:57:16</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-428421596</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.780359</BBRadius>
+        <BBHScale>1.064751</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.074091" Y="-0.514424" Z="-0.933761" />
+        <BoundingMax X="0.587684" Y="0.603895" Z="0.626957" />
+        <BoundingCenter X="-0.243204" Y="0.044735" Z="-0.153402" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>R2_Rock1</Name>
+        <File>ca\rocks2\r2_rock1.p3d</File>
+        <Date>10/17/14 15:57:16</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1776002381</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.688485</BBRadius>
+        <BBHScale>1.375281</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.181547" Y="-7.502522" Z="-8.698770" />
+        <BoundingMax X="11.716677" Y="33.156673" Z="8.678201" />
+        <BoundingCenter X="-0.232435" Y="12.827076" Z="-0.010284" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>R2_Rock2</Name>
+        <File>ca\rocks2\r2_rock2.p3d</File>
+        <Date>10/17/14 15:57:16</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1776002382</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.651806</BBRadius>
+        <BBHScale>1.381112</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.181547" Y="-7.433994" Z="-8.667320" />
+        <BoundingMax X="11.716677" Y="33.156673" Z="8.636292" />
+        <BoundingCenter X="-0.232435" Y="12.861340" Z="-0.015514" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>R2_RockTower</Name>
+        <File>ca\rocks2\r2_rocktower.p3d</File>
+        <Date>10/17/14 15:57:16</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>653461125</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.717857</BBRadius>
+        <BBHScale>0.882448</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.123283" Y="-6.995696" Z="-8.825503" />
+        <BoundingMax X="7.262831" Y="36.397430" Z="8.610211" />
+        <BoundingCenter X="-0.430226" Y="14.700867" Z="-0.107646" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>R2_RockWall</Name>
+        <File>ca\rocks2\r2_rockwall.p3d</File>
+        <Date>10/17/14 15:57:16</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-441459794</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>16.846191</BBRadius>
+        <BBHScale>1.806417</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-30.395002" Y="-6.841941" Z="-17.062500" />
+        <BoundingMax X="30.467501" Y="37.308086" Z="16.629883" />
+        <BoundingCenter X="0.036249" Y="15.233072" Z="-0.216309" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>R2_Stone</Name>
+        <File>ca\rocks2\r2_stone.p3d</File>
+        <Date>10/17/14 15:57:16</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1672097018</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.781233</BBRadius>
+        <BBHScale>1.397556</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.097326" Y="-0.290609" Z="-0.716168" />
+        <BoundingMax X="1.086306" Y="0.331327" Z="0.846297" />
+        <BoundingCenter X="-0.005510" Y="0.020359" Z="0.065064" />
+        <Placement></Placement>
+    </Template>
+</Library>

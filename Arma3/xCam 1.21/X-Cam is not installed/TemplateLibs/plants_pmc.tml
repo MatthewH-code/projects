@@ -1,0 +1,663 @@
+<?xml version="1.0" ?>
+<Library name="plants_pmc" shape="rectangle" default_fill="-16711936" default_outline="-1" tex="0">
+    <Template>
+        <Name>b_Elderberry2s_PMC</Name>
+        <File>ca\plants_pmc\bush\b_elderberry2s_pmc.p3d</File>
+        <Date>09/08/14 06:20:02</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>950077265</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.665593</BBRadius>
+        <BBHScale>1.084756</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.618732" Y="-0.340809" Z="-2.646297" />
+        <BoundingMax X="3.164302" Y="3.353111" Z="2.684889" />
+        <BoundingCenter X="0.272785" Y="1.506151" Z="0.019296" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>b_Hip2s_PMC</Name>
+        <File>ca\plants_pmc\bush\b_hip2s_pmc.p3d</File>
+        <Date>09/08/14 06:20:02</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1300987642</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.969594</BBRadius>
+        <BBHScale>0.954552</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.074907" Y="-1.926604" Z="-1.572143" />
+        <BoundingMax X="2.503463" Y="4.083010" Z="6.367045" />
+        <BoundingCenter X="-1.285722" Y="1.078203" Z="2.397451" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_branchBig_PMC</Name>
+        <File>ca\plants_pmc\clutter\c_branchbig_pmc.p3d</File>
+        <Date>09/08/14 06:20:02</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-510509431</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.262963</BBRadius>
+        <BBHScale>1.169539</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.763739" Y="-0.328982" Z="-2.289983" />
+        <BoundingMax X="1.190431" Y="1.630037" Z="0.235943" />
+        <BoundingCenter X="-0.286654" Y="0.650528" Z="-1.027020" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_carduus_PMC</Name>
+        <File>ca\plants_pmc\clutter\c_carduus_pmc.p3d</File>
+        <Date>09/08/14 06:20:02</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2080722094</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.397253</BBRadius>
+        <BBHScale>0.996331</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.399472" Y="-0.040883" Z="-0.334206" />
+        <BoundingMax X="0.392118" Y="0.978713" Z="0.460300" />
+        <BoundingCenter X="-0.003677" Y="0.468915" Z="0.063047" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_GrassCrooked_PMC</Name>
+        <File>ca\plants_pmc\clutter\c_grasscrooked_pmc.p3d</File>
+        <Date>09/08/14 06:20:02</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>72788968</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.067605</BBRadius>
+        <BBHScale>0.957467</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.026215" Y="-0.086728" Z="-0.977994" />
+        <BoundingMax X="1.018180" Y="0.336787" Z="1.157217" />
+        <BoundingCenter X="-0.004018" Y="0.125030" Z="0.089611" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_GrassDesert_GroupSoft_PMC</Name>
+        <File>ca\plants_pmc\clutter\c_grassdesert_groupsoft_pmc.p3d</File>
+        <Date>09/08/14 06:20:02</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1320057408</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.897133</BBRadius>
+        <BBHScale>1.001197</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.906343" Y="-0.058891" Z="-0.852160" />
+        <BoundingMax X="0.890071" Y="0.945413" Z="0.942106" />
+        <BoundingCenter X="-0.008136" Y="0.443261" Z="0.044973" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_grassDryLongBunch_PMC</Name>
+        <File>ca\plants_pmc\clutter\c_grassdrylongbunch_pmc.p3d</File>
+        <Date>09/08/14 06:20:02</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1448654246</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.472957</BBRadius>
+        <BBHScale>1.000610</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.358297" Y="-0.008847" Z="-0.478522" />
+        <BoundingMax X="0.588193" Y="1.104773" Z="0.467391" />
+        <BoundingCenter X="0.114948" Y="0.547963" Z="-0.005565" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_GrassGreen_GroupHard_PMC</Name>
+        <File>ca\plants_pmc\clutter\c_grassgreen_grouphard_pmc.p3d</File>
+        <Date>09/08/14 06:20:02</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1384626789</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.025573</BBRadius>
+        <BBHScale>0.877158</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.904876" Y="-0.077736" Z="-0.989008" />
+        <BoundingMax X="0.894304" Y="1.127180" Z="1.062138" />
+        <BoundingCenter X="-0.005286" Y="0.524722" Z="0.036565" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_GrassGreen_GroupSoft_PMC</Name>
+        <File>ca\plants_pmc\clutter\c_grassgreen_groupsoft_pmc.p3d</File>
+        <Date>09/08/14 06:20:02</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1706732294</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.897133</BBRadius>
+        <BBHScale>1.001197</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.906343" Y="-0.042065" Z="-0.852160" />
+        <BoundingMax X="0.890071" Y="0.675295" Z="0.942106" />
+        <BoundingCenter X="-0.008136" Y="0.316615" Z="0.044973" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_GrassTall_PMC</Name>
+        <File>ca\plants_pmc\clutter\c_grasstall_pmc.p3d</File>
+        <Date>09/08/14 06:20:02</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1082599378</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.692055</BBRadius>
+        <BBHScale>1.253823</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.928545" Y="-0.082809" Z="-0.639149" />
+        <BoundingMax X="0.806885" Y="1.317085" Z="0.744961" />
+        <BoundingCenter X="-0.060830" Y="0.617138" Z="0.052906" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_BrokenSpruce_PMC</Name>
+        <File>ca\plants_pmc\misc\misc_brokenspruce_pmc.p3d</File>
+        <Date>09/08/14 06:20:02</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>758305969</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.091203</BBRadius>
+        <BBHScale>0.981056</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.758990" Y="-0.638150" Z="-1.038606" />
+        <BoundingMax X="1.382072" Y="5.338017" Z="1.143801" />
+        <BoundingCenter X="0.311541" Y="2.349934" Z="0.052598" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_BurnSpruce_PMC</Name>
+        <File>ca\plants_pmc\misc\misc_burnspruce_pmc.p3d</File>
+        <Date>09/08/14 06:20:02</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>991549739</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.107001</BBRadius>
+        <BBHScale>1.164265</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.076863" Y="-0.454577" Z="-1.289572" />
+        <BoundingMax X="1.500822" Y="11.066805" Z="0.924431" />
+        <BoundingCenter X="0.211979" Y="5.306114" Z="-0.182571" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_FallenSpruce_1xTrunk_PMC</Name>
+        <File>ca\plants_pmc\misc\misc_fallenspruce_1xtrunk_pmc.p3d</File>
+        <Date>09/08/14 06:20:02</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1420269778</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.064572</BBRadius>
+        <BBHScale>3.529233</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.674942" Y="-0.886685" Z="-2.955556" />
+        <BoundingMax X="10.897772" Y="1.709139" Z="1.173589" />
+        <BoundingCenter X="3.611415" Y="0.411227" Z="-0.890983" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_FallenSpruce_PMC</Name>
+        <File>ca\plants_pmc\misc\misc_fallenspruce_pmc.p3d</File>
+        <Date>09/08/14 06:20:02</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2072633952</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.184115</BBRadius>
+        <BBHScale>0.431349</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.084496" Y="-1.252235" Z="-3.896635" />
+        <BoundingMax X="2.250533" Y="2.361234" Z="8.471595" />
+        <BoundingCenter X="-0.416981" Y="0.554500" Z="2.287480" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_FallenTrunk_PMC</Name>
+        <File>ca\plants_pmc\misc\misc_fallentrunk_pmc.p3d</File>
+        <Date>09/08/14 06:20:02</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1088015068</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.030113</BBRadius>
+        <BBHScale>0.286358</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.988025" Y="-0.726124" Z="-7.334330" />
+        <BoundingMax X="3.183673" Y="2.596713" Z="10.725897" />
+        <BoundingCenter X="0.597824" Y="0.935294" Z="1.695783" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_StubLeafs_PMC</Name>
+        <File>ca\plants_pmc\misc\misc_stubleafs_pmc.p3d</File>
+        <Date>09/08/14 06:20:02</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2024941381</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.814107</BBRadius>
+        <BBHScale>0.679550</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.616923" Y="-4.319183" Z="-1.336770" />
+        <BoundingMax X="0.848628" Y="3.031415" Z="2.291444" />
+        <BoundingCenter X="-0.384147" Y="-0.643884" Z="0.477337" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>misc_TorzoTree_PMC</Name>
+        <File>ca\plants_pmc\misc\misc_torzotree_pmc.p3d</File>
+        <Date>09/08/14 06:20:02</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-222538466</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.553096</BBRadius>
+        <BBHScale>1.266877</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.948739" Y="-1.197346" Z="-1.649687" />
+        <BoundingMax X="1.986423" Y="5.223497" Z="1.456505" />
+        <BoundingCenter X="0.018842" Y="2.013076" Z="-0.096591" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>p_Reeds_PMC</Name>
+        <File>ca\plants_pmc\plant\p_reeds_pmc.p3d</File>
+        <Date>09/08/14 06:20:02</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1116463143</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.361740</BBRadius>
+        <BBHScale>1.004513</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.564351" Y="-1.448548" Z="-2.274466" />
+        <BoundingMax X="2.180447" Y="1.990781" Z="2.449014" />
+        <BoundingCenter X="-0.191952" Y="0.271117" Z="0.087274" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_poplar2f_dead_PMC</Name>
+        <File>ca\plants_pmc\tree\t_poplar2f_dead_pmc.p3d</File>
+        <Date>09/08/14 06:20:02</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>389894495</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.246557</BBRadius>
+        <BBHScale>1.093602</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.918605" Y="-3.719093" Z="-8.717619" />
+        <BoundingMax X="8.118297" Y="18.843176" Z="7.775496" />
+        <BoundingCenter X="-0.900154" Y="7.562041" Z="-0.471062" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>t_willow2s_Dead_PMC</Name>
+        <File>ca\plants_pmc\tree\t_willow2s_dead_pmc.p3d</File>
+        <Date>09/08/14 06:20:02</Date>
+        <Archive></Archive>
+        <Fill>-16711936</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1124768252</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.661863</BBRadius>
+        <BBHScale>1.332643</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.721316" Y="-1.683399" Z="-0.823376" />
+        <BoundingMax X="1.708024" Y="3.576655" Z="2.500350" />
+        <BoundingCenter X="-0.506646" Y="0.946628" Z="0.838487" />
+        <Placement></Placement>
+    </Template>
+</Library>

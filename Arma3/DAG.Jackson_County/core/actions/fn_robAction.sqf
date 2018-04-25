@@ -1,0 +1,24 @@
+/*
+	File: fn_robAction.sqf
+	Author: Bryan Tonic Boardwine
+	
+	Description:
+	Starts the robbing process?
+*/
+private["_target"];
+_target = cursorTarget;
+
+//Error checks
+if(isNull _target) exitWith {};
+if(!isPlayer _target) exitWith {};
+
+player switchMove "amovpknlmstpsnonwnondnon_amovpknlmstpsraswlnrdnon";
+[[player,"amovpknlmstpsnonwnondnon_amovpknlmstpsraswlnrdnon"],"life_fnc_animSync",true,false] spawn life_fnc_MP;
+
+if(_target getVariable["robbed",false]) exitWith {};
+[[player],"life_fnc_robPerson",_target,false] spawn life_fnc_MP;
+_reason = "211";
+[player,player,_reason] call life_fnc_createEvidence;
+
+_target setVariable["robbed",TRUE,TRUE];
+_target setVariable["search",true,true];

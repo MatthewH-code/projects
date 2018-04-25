@@ -1,0 +1,531 @@
+<?xml version="1.0" ?>
+<Library name="rocks_e" shape="rectangle" default_fill="-8355840" default_outline="-1" tex="0">
+    <Template>
+        <Name>R_Boulder_01_EP1</Name>
+        <File>ca\rocks_e\r_boulder_01_ep1.p3d</File>
+        <Date>10/17/14 15:57:17</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>144844775</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.203660</BBRadius>
+        <BBHScale>1.049395</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.936410" Y="-10.224100" Z="-5.953290" />
+        <BoundingMax X="5.083770" Y="5.034340" Z="6.454030" />
+        <BoundingCenter X="-1.426320" Y="-2.594880" Z="0.250370" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>R_Boulder_02_EP1</Name>
+        <File>ca\rocks_e\r_boulder_02_ep1.p3d</File>
+        <Date>10/17/14 15:57:17</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1284409064</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.451515</BBRadius>
+        <BBHScale>0.943605</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.579930" Y="-9.270310" Z="-8.423731" />
+        <BoundingMax X="7.369861" Y="5.978820" Z="8.479300" />
+        <BoundingCenter X="-0.605035" Y="-1.645745" Z="0.027784" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>R_Boulder_03_EP1</Name>
+        <File>ca\rocks_e\r_boulder_03_ep1.p3d</File>
+        <Date>10/17/14 15:57:17</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1870993943</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.947580</BBRadius>
+        <BBHScale>0.962455</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.440516" Y="-15.593134" Z="-9.450251" />
+        <BoundingMax X="7.782770" Y="6.393560" Z="8.444910" />
+        <BoundingCenter X="-0.828873" Y="-4.599787" Z="-0.502670" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>R_Rock_01_EP1</Name>
+        <File>ca\rocks_e\r_rock_01_ep1.p3d</File>
+        <Date>10/17/14 15:57:17</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-158386571</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.142595</BBRadius>
+        <BBHScale>1.006674</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.665020" Y="-9.323151" Z="-9.405430" />
+        <BoundingMax X="8.742201" Y="17.088402" Z="8.879761" />
+        <BoundingCenter X="-0.461410" Y="3.882626" Z="-0.262835" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>R_Rock_02_EP1</Name>
+        <File>ca\rocks_e\r_rock_02_ep1.p3d</File>
+        <Date>10/17/14 15:57:17</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>981177718</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>16.126751</BBRadius>
+        <BBHScale>0.915550</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.853901" Y="-21.428001" Z="-16.672302" />
+        <BoundingMax X="16.675802" Y="14.451500" Z="15.581200" />
+        <BoundingCenter X="1.910951" Y="-3.488251" Z="-0.545551" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>R_Rock_03_EP1</Name>
+        <File>ca\rocks_e\r_rock_03_ep1.p3d</File>
+        <Date>10/17/14 15:57:17</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2120742007</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>23.880550</BBRadius>
+        <BBHScale>0.964714</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-23.509901" Y="-29.750198" Z="-24.103500" />
+        <BoundingMax X="22.565901" Y="19.005302" Z="23.657600" />
+        <BoundingCenter X="-0.472000" Y="-5.372448" Z="-0.222950" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>R_Stone_01_EP1</Name>
+        <File>ca\rocks_e\r_stone_01_ep1.p3d</File>
+        <Date>10/17/14 15:57:17</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1228235631</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.698160</BBRadius>
+        <BBHScale>1.151302</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.990741" Y="-0.989758" Z="-1.866960" />
+        <BoundingMax X="1.919450" Y="0.836295" Z="1.529361" />
+        <BoundingCenter X="-0.035645" Y="-0.076731" Z="-0.168800" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>R_Stone_02_EP1</Name>
+        <File>ca\rocks_e\r_stone_02_ep1.p3d</File>
+        <Date>10/17/14 15:57:17</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1927167376</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.780359</BBRadius>
+        <BBHScale>1.064751</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.074091" Y="-0.529272" Z="-0.933761" />
+        <BoundingMax X="0.587684" Y="0.603895" Z="0.626957" />
+        <BoundingCenter X="-0.243204" Y="0.037312" Z="-0.153402" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>R_tk_Boulder_01_EP1</Name>
+        <File>ca\rocks_e\r_tk_boulder_01_ep1.p3d</File>
+        <Date>10/17/14 15:57:17</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1479108789</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.203660</BBRadius>
+        <BBHScale>1.049395</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.936410" Y="-10.224100" Z="-5.953290" />
+        <BoundingMax X="5.083770" Y="5.034340" Z="6.454030" />
+        <BoundingCenter X="-1.426320" Y="-2.594880" Z="0.250370" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>R_tk_Boulder_02_EP1</Name>
+        <File>ca\rocks_e\r_tk_boulder_02_ep1.p3d</File>
+        <Date>10/17/14 15:57:17</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1676294218</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.451515</BBRadius>
+        <BBHScale>0.943605</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.579930" Y="-9.270310" Z="-8.423731" />
+        <BoundingMax X="7.369861" Y="5.978820" Z="8.479300" />
+        <BoundingCenter X="-0.605035" Y="-1.645745" Z="0.027784" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>R_tk_Boulder_03_EP1</Name>
+        <File>ca\rocks_e\r_tk_boulder_03_ep1.p3d</File>
+        <Date>10/17/14 15:57:17</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-536729929</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.947580</BBRadius>
+        <BBHScale>0.938178</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.006071" Y="-14.518801" Z="-9.450251" />
+        <BoundingMax X="7.782770" Y="6.393560" Z="8.444910" />
+        <BoundingCenter X="-0.611650" Y="-4.062620" Z="-0.502670" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>R_tk_Rock_01_EP1</Name>
+        <File>ca\rocks_e\r_tk_rock_01_ep1.p3d</File>
+        <Date>10/17/14 15:57:17</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>716184359</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.142595</BBRadius>
+        <BBHScale>1.006674</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.665020" Y="-9.323151" Z="-9.405430" />
+        <BoundingMax X="8.742201" Y="17.088402" Z="8.879761" />
+        <BoundingCenter X="-0.461410" Y="3.882626" Z="-0.262835" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>R_tk_Rock_02_EP1</Name>
+        <File>ca\rocks_e\r_tk_rock_02_ep1.p3d</File>
+        <Date>10/17/14 15:57:17</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1855748648</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>16.126751</BBRadius>
+        <BBHScale>0.915550</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.853901" Y="-21.428001" Z="-16.672302" />
+        <BoundingMax X="16.675802" Y="14.451500" Z="15.581200" />
+        <BoundingCenter X="1.910951" Y="-3.488251" Z="-0.545551" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>R_tk_Rock_03_EP1</Name>
+        <File>ca\rocks_e\r_tk_rock_03_ep1.p3d</File>
+        <Date>10/17/14 15:57:17</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1299654359</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>23.880550</BBRadius>
+        <BBHScale>0.964714</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-23.509901" Y="-29.750198" Z="-24.103500" />
+        <BoundingMax X="22.565901" Y="19.005302" Z="23.657600" />
+        <BoundingCenter X="-0.472000" Y="-5.372448" Z="-0.222950" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>R_tk_Stone_01_EP1</Name>
+        <File>ca\rocks_e\r_tk_stone_01_ep1.p3d</File>
+        <Date>10/17/14 15:57:17</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>33532733</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.698160</BBRadius>
+        <BBHScale>1.151302</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.990741" Y="-0.967133" Z="-1.866960" />
+        <BoundingMax X="1.919450" Y="0.836295" Z="1.529361" />
+        <BoundingCenter X="-0.035645" Y="-0.065419" Z="-0.168800" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>R_tk_Stone_02_EP1</Name>
+        <File>ca\rocks_e\r_tk_stone_02_ep1.p3d</File>
+        <Date>10/17/14 15:57:17</Date>
+        <Archive></Archive>
+        <Fill>-8355840</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1173097022</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.780359</BBRadius>
+        <BBHScale>1.064751</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.074091" Y="-0.514424" Z="-0.933761" />
+        <BoundingMax X="0.587684" Y="0.603895" Z="0.626957" />
+        <BoundingCenter X="-0.243204" Y="0.044735" Z="-0.153402" />
+        <Placement></Placement>
+    </Template>
+</Library>

@@ -1,0 +1,12 @@
+name = "X-Cam v1.21";
+logo = "\xCam\xCam\xcamlogo.paa";
+logoOver = "\xCam\xCam\xcamlogo.paa";
+picture = "\xCam\xCam\xcamlogo.paa";
+tooltip = "X-Cam v1.21, the 3D object placement tool";
+tooltipOwned = "X-Cam v1.21, the 3D object placement tool Owned";
+action = "http://forums.bistudio.com/showthread.php?190508-X-Cam-1-0-for-Arma-3-released";
+overview = "X-Cam is an in-game 3D object placement tool with many different functions. All these functions make it much easier to place objects on any terrain.";
+overviewPicture = "\xCam\xCam\xcamlogo.paa";
+hideName = 1;
+hidePicture = 0;
+author = "Silola";

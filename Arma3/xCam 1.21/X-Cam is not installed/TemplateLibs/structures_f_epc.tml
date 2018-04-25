@@ -1,0 +1,1653 @@
+<?xml version="1.0" ?>
+<Library name="structures_f_epc" shape="rectangle" default_fill="-65408" default_outline="-1" tex="0">
+    <Template>
+        <Name>Atm_01_F</Name>
+        <File>a3\structures_f_epc\civ\accessories\atm_01_f.p3d</File>
+        <Date>06/20/14 19:52:03</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-363458483</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.357869</BBRadius>
+        <BBHScale>2.422805</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.867047" Y="-0.104234" Z="-0.368039" />
+        <BoundingMax X="0.867047" Y="2.665420" Z="0.347699" />
+        <BoundingCenter X="0.000000" Y="1.280593" Z="-0.010170" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Atm_02_F</Name>
+        <File>a3\structures_f_epc\civ\accessories\atm_02_f.p3d</File>
+        <Date>06/20/14 19:52:03</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-355196978</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.723864</BBRadius>
+        <BBHScale>1.216964</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.883285" Y="-0.104234" Z="-1.100030" />
+        <BoundingMax X="0.878550" Y="2.676530" Z="0.347699" />
+        <BoundingCenter X="-0.002367" Y="1.286148" Z="-0.376165" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BeachBooth_01_F</Name>
+        <File>a3\structures_f_epc\civ\accessories\beachbooth_01_f.p3d</File>
+        <Date>06/20/14 19:52:03</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1216752596</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.690000</BBRadius>
+        <BBHScale>1.005368</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.693704" Y="-0.198413" Z="-0.658180" />
+        <BoundingMax X="0.693704" Y="2.392913" Z="0.721820" />
+        <BoundingCenter X="0.000000" Y="1.097250" Z="0.031820" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Bench_01_F</Name>
+        <File>a3\structures_f_epc\civ\accessories\bench_01_f.p3d</File>
+        <Date>06/20/14 19:52:03</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-297755465</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.331844</BBRadius>
+        <BBHScale>3.001414</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.993600" Y="-0.049200" Z="-0.254400" />
+        <BoundingMax X="0.998400" Y="1.070938" Z="0.409287" />
+        <BoundingCenter X="0.002400" Y="0.510869" Z="0.077444" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Bench_02_F</Name>
+        <File>a3\structures_f_epc\civ\accessories\bench_02_f.p3d</File>
+        <Date>06/20/14 19:52:03</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-289493960</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.331844</BBRadius>
+        <BBHScale>3.001414</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.993600" Y="-0.049200" Z="-0.254400" />
+        <BoundingMax X="0.998400" Y="1.070938" Z="0.409287" />
+        <BoundingCenter X="0.002400" Y="0.510869" Z="0.077444" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>LifeguardTower_01_F</Name>
+        <File>a3\structures_f_epc\civ\accessories\lifeguardtower_01_f.p3d</File>
+        <Date>06/20/14 19:52:04</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-988383801</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.539442</BBRadius>
+        <BBHScale>1.191423</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.418000" Y="-0.468829" Z="-1.515983" />
+        <BoundingMax X="2.250253" Y="6.506127" Z="1.562901" />
+        <BoundingCenter X="0.416127" Y="3.018649" Z="0.023459" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>TablePlastic_01_F</Name>
+        <File>a3\structures_f_epc\civ\accessories\tableplastic_01_f.p3d</File>
+        <Date>06/20/14 19:52:04</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1384371413</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.585598</BBRadius>
+        <BBHScale>2.043752</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.199579" Y="-0.002852" Z="-0.585598" />
+        <BoundingMax X="1.194054" Y="0.884227" Z="0.585598" />
+        <BoundingCenter X="-0.002763" Y="0.440688" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Sunshade_01_F</Name>
+        <File>a3\structures_f_epc\civ\camping\sunshade_01_f.p3d</File>
+        <Date>06/20/14 19:52:04</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>139235046</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.544240</BBRadius>
+        <BBHScale>0.867147</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.339083" Y="-0.200000" Z="-1.544240" />
+        <BoundingMax X="1.339083" Y="3.178912" Z="1.544240" />
+        <BoundingCenter X="0.000000" Y="1.489456" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Sunshade_02_F</Name>
+        <File>a3\structures_f_epc\civ\camping\sunshade_02_f.p3d</File>
+        <Date>06/20/14 19:52:04</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>147496551</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.561599</BBRadius>
+        <BBHScale>0.970706</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.516359" Y="-0.296396" Z="-1.561230" />
+        <BoundingMax X="1.515348" Y="3.441266" Z="1.561967" />
+        <BoundingCenter X="-0.000505" Y="1.572435" Z="0.000369" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Sunshade_03_F</Name>
+        <File>a3\structures_f_epc\civ\camping\sunshade_03_f.p3d</File>
+        <Date>06/20/14 19:52:04</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>155758056</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.330267</BBRadius>
+        <BBHScale>1.005184</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.352083" Y="-0.268000" Z="-1.361230" />
+        <BoundingMax X="1.322244" Y="2.830106" Z="1.299305" />
+        <BoundingCenter X="-0.014920" Y="1.281053" Z="-0.030962" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Sunshade_04_F</Name>
+        <File>a3\structures_f_epc\civ\camping\sunshade_04_f.p3d</File>
+        <Date>06/20/14 19:52:04</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>164019561</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.803212</BBRadius>
+        <BBHScale>0.874478</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.576869" Y="-0.436475" Z="-1.803212" />
+        <BoundingMax X="1.576869" Y="3.041481" Z="1.803212" />
+        <BoundingCenter X="0.000000" Y="1.302503" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>GarbageBarrel_01_F</Name>
+        <File>a3\structures_f_epc\civ\garbage\garbagebarrel_01_f.p3d</File>
+        <Date>06/20/14 19:52:04</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2040260980</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.389688</BBRadius>
+        <BBHScale>1.007121</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.391984" Y="-0.003866" Z="-0.384950" />
+        <BoundingMax X="0.392942" Y="1.223824" Z="0.394426" />
+        <BoundingCenter X="0.000479" Y="0.609979" Z="0.004738" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>GarbageBin_01_F</Name>
+        <File>a3\structures_f_epc\civ\garbage\garbagebin_01_f.p3d</File>
+        <Date>06/20/14 19:52:04</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-708105835</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.233940</BBRadius>
+        <BBHScale>1.046685</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.239861" Y="-0.200000" Z="-0.182607" />
+        <BoundingMax X="0.249861" Y="1.228165" Z="0.285273" />
+        <BoundingCenter X="0.005000" Y="0.514083" Z="0.051333" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Kiosk_blueking_F</Name>
+        <File>a3\structures_f_epc\civ\kiosks\kiosk_blueking_f.p3d</File>
+        <Date>06/20/14 19:52:05</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-23064722</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.242499</BBRadius>
+        <BBHScale>0.988657</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.196754" Y="-1.145000" Z="-4.242499" />
+        <BoundingMax X="4.192000" Y="4.879648" Z="4.242499" />
+        <BoundingCenter X="-0.002377" Y="1.867324" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Kiosk_blueking_ruins_F</Name>
+        <File>a3\structures_f_epc\civ\kiosks\kiosk_blueking_ruins_f.p3d</File>
+        <Date>06/20/14 19:52:06</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1651101062</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.276726</BBRadius>
+        <BBHScale>1.105737</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.811804" Y="-1.166250" Z="-4.276726" />
+        <BoundingMax X="4.646064" Y="2.795000" Z="4.276726" />
+        <BoundingCenter X="-0.082870" Y="0.814375" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Kiosk_gyros_F</Name>
+        <File>a3\structures_f_epc\civ\kiosks\kiosk_gyros_f.p3d</File>
+        <Date>06/20/14 19:52:06</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2092186037</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.242499</BBRadius>
+        <BBHScale>0.988657</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.196754" Y="-1.145000" Z="-4.242499" />
+        <BoundingMax X="4.192000" Y="5.300000" Z="4.242499" />
+        <BoundingCenter X="-0.002377" Y="2.077500" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Kiosk_papers_F</Name>
+        <File>a3\structures_f_epc\civ\kiosks\kiosk_papers_f.p3d</File>
+        <Date>06/20/14 19:52:07</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1719727516</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.242499</BBRadius>
+        <BBHScale>0.988657</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.196754" Y="-1.145000" Z="-4.242499" />
+        <BoundingMax X="4.192000" Y="5.300000" Z="4.242499" />
+        <BoundingCenter X="-0.002377" Y="2.077500" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Kiosk_redburger_F</Name>
+        <File>a3\structures_f_epc\civ\kiosks\kiosk_redburger_f.p3d</File>
+        <Date>06/20/14 19:52:08</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1363234775</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.242499</BBRadius>
+        <BBHScale>0.988657</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.196754" Y="-1.145000" Z="-4.242499" />
+        <BoundingMax X="4.192000" Y="7.088906" Z="4.242499" />
+        <BoundingCenter X="-0.002377" Y="2.971953" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Carousel_01_F</Name>
+        <File>a3\structures_f_epc\civ\playground\carousel_01_f.p3d</File>
+        <Date>06/20/14 19:52:09</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1348849241</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.268862</BBRadius>
+        <BBHScale>1.016659</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.290000" Y="-0.092479" Z="-1.275114" />
+        <BoundingMax X="1.290000" Y="1.086067" Z="1.262610" />
+        <BoundingCenter X="0.000000" Y="0.496794" Z="-0.006252" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Swing_01_F</Name>
+        <File>a3\structures_f_epc\civ\playground\swing_01_f.p3d</File>
+        <Date>06/20/14 19:52:09</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2066105481</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.427126</BBRadius>
+        <BBHScale>0.206789</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.500000" Y="-0.194274" Z="-2.463158" />
+        <BoundingMax X="0.503806" Y="1.260380" Z="2.391095" />
+        <BoundingCenter X="0.001903" Y="0.533053" Z="-0.036031" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>TouristShelter_01_F</Name>
+        <File>a3\structures_f_epc\civ\tourism\touristshelter_01_f.p3d</File>
+        <Date>06/20/14 19:52:10</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1800819060</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.115683</BBRadius>
+        <BBHScale>1.475911</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.023055" Y="-0.323225" Z="-1.286365" />
+        <BoundingMax X="3.222066" Y="2.652000" Z="2.945000" />
+        <BoundingCenter X="0.099505" Y="1.164387" Z="0.829318" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>GH_Fountain_F</Name>
+        <File>a3\structures_f_epc\dominants\ghosthotel\gh_fountain_f.p3d</File>
+        <Date>06/20/14 19:52:10</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>606223001</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.848098</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.848103" Y="0.810000" Z="-12.348088" />
+        <BoundingMax X="2.848093" Y="3.368235" Z="-6.651893" />
+        <BoundingCenter X="-0.000005" Y="2.089118" Z="-9.499990" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>GH_Gazebo_F</Name>
+        <File>a3\structures_f_epc\dominants\ghosthotel\gh_gazebo_f.p3d</File>
+        <Date>06/20/14 19:52:12</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1871534807</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.027035</BBRadius>
+        <BBHScale>1.271413</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.657801" Y="-0.657456" Z="-6.423270" />
+        <BoundingMax X="7.667900" Y="4.841190" Z="5.630800" />
+        <BoundingCenter X="0.005050" Y="2.091867" Z="-0.396235" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>GH_Gazebo_ruins_F</Name>
+        <File>a3\structures_f_epc\dominants\ghosthotel\gh_gazebo_ruins_f.p3d</File>
+        <Date>06/20/14 19:52:13</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1182716003</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.402385</BBRadius>
+        <BBHScale>1.161198</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.683213" Y="-3.286254" Z="-9.031137" />
+        <BoundingMax X="11.152854" Y="3.594302" Z="9.773632" />
+        <BoundingCenter X="0.234820" Y="0.154024" Z="0.371247" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>GH_House_1_F</Name>
+        <File>a3\structures_f_epc\dominants\ghosthotel\gh_house_1_f.p3d</File>
+        <Date>06/20/14 19:52:17</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1628620955</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.783164</BBRadius>
+        <BBHScale>0.540087</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.283106" Y="-4.421880" Z="-6.700001" />
+        <BoundingMax X="5.284406" Y="9.764228" Z="12.866327" />
+        <BoundingCenter X="0.000650" Y="2.671174" Z="3.083163" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>GH_House_2_F</Name>
+        <File>a3\structures_f_epc\dominants\ghosthotel\gh_house_2_f.p3d</File>
+        <Date>06/20/14 19:52:20</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1636882460</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.986188</BBRadius>
+        <BBHScale>0.529887</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.283107" Y="-4.451880" Z="-7.106049" />
+        <BoundingMax X="5.300000" Y="6.264229" Z="12.866327" />
+        <BoundingCenter X="0.008447" Y="0.906175" Z="2.880139" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>GH_House_ruins_F</Name>
+        <File>a3\structures_f_epc\dominants\ghosthotel\gh_house_ruins_f.p3d</File>
+        <Date>06/20/14 19:52:21</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1570900587</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>14.069683</BBRadius>
+        <BBHScale>0.867218</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.877403" Y="-14.864295" Z="-15.415241" />
+        <BoundingMax X="12.525574" Y="4.060000" Z="12.724125" />
+        <BoundingCenter X="0.324085" Y="-5.402147" Z="-1.345558" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>GH_MainBuilding_entry_F</Name>
+        <File>a3\structures_f_epc\dominants\ghosthotel\gh_mainbuilding_entry_f.p3d</File>
+        <Date>06/20/14 19:52:21</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1861309157</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>22.776501</BBRadius>
+        <BBHScale>0.333720</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.598840" Y="-4.250980" Z="-30.359201" />
+        <BoundingMax X="7.603110" Y="6.283121" Z="15.193800" />
+        <BoundingCenter X="0.002135" Y="1.016070" Z="-7.582701" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>GH_MainBuilding_left_F</Name>
+        <File>a3\structures_f_epc\dominants\ghosthotel\gh_mainbuilding_left_f.p3d</File>
+        <Date>06/20/14 19:52:27</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1365185890</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>23.523451</BBRadius>
+        <BBHScale>0.933925</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.010927" Y="-9.821581" Z="-20.662201" />
+        <BoundingMax X="43.927349" Y="13.652901" Z="26.384701" />
+        <BoundingCenter X="21.958210" Y="1.915660" Z="2.861250" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>GH_MainBuilding_middle_F</Name>
+        <File>a3\structures_f_epc\dominants\ghosthotel\gh_mainbuilding_middle_f.p3d</File>
+        <Date>06/20/14 19:52:31</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>377540496</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>29.741425</BBRadius>
+        <BBHScale>0.633670</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-18.836100" Y="-9.681901" Z="-31.960346" />
+        <BoundingMax X="18.856401" Y="10.326800" Z="27.522503" />
+        <BoundingCenter X="0.010151" Y="0.322450" Z="-2.218922" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>GH_MainBuilding_right_F</Name>
+        <File>a3\structures_f_epc\dominants\ghosthotel\gh_mainbuilding_right_f.p3d</File>
+        <Date>06/20/14 19:52:37</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1719254737</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>23.523451</BBRadius>
+        <BBHScale>0.942298</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-44.308167" Y="-9.821581" Z="-20.662201" />
+        <BoundingMax X="0.024055" Y="13.652901" Z="26.384701" />
+        <BoundingCenter X="-22.142056" Y="1.915660" Z="2.861250" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>GH_Platform_F</Name>
+        <File>a3\structures_f_epc\dominants\ghosthotel\gh_platform_f.p3d</File>
+        <Date>06/20/14 19:52:37</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>43479800</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.027750</BBRadius>
+        <BBHScale>0.226139</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.913646" Y="-0.240838" Z="-4.027165" />
+        <BoundingMax X="0.908019" Y="0.107640" Z="4.028336" />
+        <BoundingCenter X="-0.002813" Y="-0.066599" Z="0.000585" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>GH_Pool_F</Name>
+        <File>a3\structures_f_epc\dominants\ghosthotel\gh_pool_f.p3d</File>
+        <Date>06/20/14 19:52:38</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1503007775</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>24.428728</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-24.428728" Y="-9.801112" Z="-24.428728" />
+        <BoundingMax X="24.428728" Y="1.427073" Z="24.428728" />
+        <BoundingCenter X="0.000000" Y="-4.187019" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>GH_Proxy_shower2_F</Name>
+        <File>a3\structures_f_epc\dominants\ghosthotel\gh_proxy_shower2_f.p3d</File>
+        <Date>06/20/14 19:52:38</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1787269664</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.745404</BBRadius>
+        <BBHScale>0.877272</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.639772" Y="-0.001196" Z="-0.752657" />
+        <BoundingMax X="0.668071" Y="2.578490" Z="0.738150" />
+        <BoundingCenter X="0.014150" Y="1.288647" Z="-0.007253" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>GH_Proxy_shower_F</Name>
+        <File>a3\structures_f_epc\dominants\ghosthotel\gh_proxy_shower_f.p3d</File>
+        <Date>06/20/14 19:52:38</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1698851104</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.668707</BBRadius>
+        <BBHScale>1.093094</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.764957" Y="-0.001197" Z="-0.752808" />
+        <BoundingMax X="0.696961" Y="2.591536" Z="0.584605" />
+        <BoundingCenter X="-0.033998" Y="1.295169" Z="-0.084102" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>GH_Stairs_F</Name>
+        <File>a3\structures_f_epc\dominants\ghosthotel\gh_stairs_f.p3d</File>
+        <Date>06/20/14 19:52:38</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-917329361</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.924150</BBRadius>
+        <BBHScale>0.192409</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.752716" Y="-1.115464" Z="-3.864554" />
+        <BoundingMax X="0.757368" Y="4.120116" Z="3.983746" />
+        <BoundingCenter X="0.002326" Y="1.502326" Z="0.059596" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Stadium_p1_F</Name>
+        <File>a3\structures_f_epc\dominants\stadium\stadium_p1_f.p3d</File>
+        <Date>06/20/14 19:52:38</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1108637962</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.341993</BBRadius>
+        <BBHScale>1.725973</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.419999" Y="-11.290616" Z="29.765919" />
+        <BoundingMax X="33.280006" Y="1.707857" Z="50.449905" />
+        <BoundingCenter X="15.430004" Y="-4.791380" Z="40.107910" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Stadium_p2_F</Name>
+        <File>a3\structures_f_epc\dominants\stadium\stadium_p2_f.p3d</File>
+        <Date>06/20/14 19:52:39</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1116899467</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>21.345676</BBRadius>
+        <BBHScale>1.067172</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="32.349998" Y="-11.247144" Z="7.808550" />
+        <BoundingMax X="77.909012" Y="1.695428" Z="50.499901" />
+        <BoundingCenter X="55.129505" Y="-4.775858" Z="29.154224" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Stadium_p3_F</Name>
+        <File>a3\structures_f_epc\dominants\stadium\stadium_p3_f.p3d</File>
+        <Date>06/20/14 19:52:39</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1125160972</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>23.144073</BBRadius>
+        <BBHScale>0.958433</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="33.630936" Y="-11.249411" Z="-37.868145" />
+        <BoundingMax X="77.995003" Y="6.275011" Z="8.420001" />
+        <BoundingCenter X="55.812969" Y="-2.487200" Z="-14.724072" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Stadium_p4_F</Name>
+        <File>a3\structures_f_epc\dominants\stadium\stadium_p4_f.p3d</File>
+        <Date>06/20/14 19:52:42</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1133422477</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>21.985769</BBRadius>
+        <BBHScale>0.923822</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.213749" Y="-11.305000" Z="-57.219997" />
+        <BoundingMax X="35.408131" Y="18.310001" Z="-13.248459" />
+        <BoundingCenter X="15.097191" Y="3.502501" Z="-35.234230" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Stadium_p5_F</Name>
+        <File>a3\structures_f_epc\dominants\stadium\stadium_p5_f.p3d</File>
+        <Date>06/20/14 19:52:44</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1141683982</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>21.849773</BBRadius>
+        <BBHScale>0.920588</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-45.032505" Y="-11.272520" Z="-57.219997" />
+        <BoundingMax X="-4.803244" Y="18.310001" Z="-13.520451" />
+        <BoundingCenter X="-24.917873" Y="3.518741" Z="-35.370224" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Stadium_p6_F</Name>
+        <File>a3\structures_f_epc\dominants\stadium\stadium_p6_f.p3d</File>
+        <Date>06/20/14 19:52:44</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1149945487</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>23.127499</BBRadius>
+        <BBHScale>0.919639</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-77.537895" Y="-11.266734" Z="-37.870007" />
+        <BoundingMax X="-34.999973" Y="6.480000" Z="8.384991" />
+        <BoundingCenter X="-56.268936" Y="-2.393367" Z="-14.742508" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Stadium_p7_F</Name>
+        <File>a3\structures_f_epc\dominants\stadium\stadium_p7_f.p3d</File>
+        <Date>06/20/14 19:52:45</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1158206992</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>21.265541</BBRadius>
+        <BBHScale>1.116984</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-81.606560" Y="-11.225114" Z="7.968750" />
+        <BoundingMax X="-34.100002" Y="3.850000" Z="50.499832" />
+        <BoundingCenter X="-57.853279" Y="-3.687557" Z="29.234291" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Stadium_p8_F</Name>
+        <File>a3\structures_f_epc\dominants\stadium\stadium_p8_f.p3d</File>
+        <Date>06/20/14 19:52:45</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1166468497</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.195839</BBRadius>
+        <BBHScale>1.832814</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-35.358654" Y="-11.382305" Z="30.058224" />
+        <BoundingMax X="2.015501" Y="1.575001" Z="50.449902" />
+        <BoundingCenter X="-16.671577" Y="-4.903652" Z="40.254063" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Stadium_p9_F</Name>
+        <File>a3\structures_f_epc\dominants\stadium\stadium_p9_f.p3d</File>
+        <Date>06/20/14 19:52:47</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1174730002</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.990754</BBRadius>
+        <BBHScale>0.750128</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.147482" Y="-7.158968" Z="-6.917468" />
+        <BoundingMax X="6.340440" Y="22.198801" Z="7.064040" />
+        <BoundingCenter X="1.096479" Y="7.519917" Z="0.073286" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Stadium_score_F</Name>
+        <File>a3\structures_f_epc\dominants\stadium\stadium_score_f.p3d</File>
+        <Date>06/20/14 19:52:47</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1578319543</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.449772</BBRadius>
+        <BBHScale>15.406459</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.929392" Y="0.120595" Z="-0.449772" />
+        <BoundingMax X="6.929392" Y="12.705280" Z="0.449772" />
+        <BoundingCenter X="0.000000" Y="6.412938" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Document_01_F</Name>
+        <File>a3\structures_f_epc\items\documents\document_01_f.p3d</File>
+        <Date>06/20/14 19:52:47</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>232299532</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.158808</BBRadius>
+        <BBHScale>0.987799</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.156846" Y="-0.003121" Z="-0.156848" />
+        <BoundingMax X="0.156895" Y="0.013791" Z="0.160768" />
+        <BoundingCenter X="0.000025" Y="0.005335" Z="0.001960" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Device_assembled_F</Name>
+        <File>a3\structures_f_epc\items\electronics\device_assembled_f.p3d</File>
+        <Date>06/20/14 19:52:52</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1374967920</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.443835</BBRadius>
+        <BBHScale>0.675794</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.319760" Y="-0.265049" Z="-3.385370" />
+        <BoundingMax X="2.334890" Y="1.708330" Z="3.502300" />
+        <BoundingCenter X="0.007565" Y="0.721640" Z="0.058465" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Device_disassembled_F</Name>
+        <File>a3\structures_f_epc\items\electronics\device_disassembled_f.p3d</File>
+        <Date>06/20/14 19:52:57</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>724916020</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.443835</BBRadius>
+        <BBHScale>0.675796</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.319760" Y="-0.265049" Z="-3.385370" />
+        <BoundingMax X="2.334900" Y="1.354540" Z="3.502300" />
+        <BoundingCenter X="0.007570" Y="0.544746" Z="0.058465" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SportGround_fence_noLC_F</Name>
+        <File>a3\structures_f_epc\walls\sportground_fence_nolc_f.p3d</File>
+        <Date>06/20/14 19:52:57</Date>
+        <Archive></Archive>
+        <Fill>-65408</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1339590415</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.163216</BBRadius>
+        <BBHScale>15.679399</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.548683" Y="-1.197000" Z="-0.181817" />
+        <BoundingMax X="2.569588" Y="3.614836" Z="0.144616" />
+        <BoundingCenter X="0.010453" Y="1.208918" Z="-0.018600" />
+        <Placement></Placement>
+    </Template>
+</Library>

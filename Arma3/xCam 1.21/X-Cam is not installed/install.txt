@@ -1,0 +1,37 @@
+X-Cam version 1.21
+
+1. copy the file "make_file.dll" into the Arma 3 installation folder.
+
+2. copy the folder "@xCam" into the Arma 3 installation folder.
+   if you have the AIA TerrainPack installed, then replace the pbo "@xCam\addons\xCam_EU.pbo"
+   with this one "A3_AIA_TerrainPack\xCam_EU.pbo"
+
+2. copy the folder "@inidbi" into the Arma 3 installation folder.
+   if you have this folder allready installed, the copy only the
+   folder "@inidbi\db\xCam" into the "@inidbi\db" folder.
+
+3. if you don't have installed the "xcam_prototype map" then copy the following pbo's
+   "Optional\*.pbo" into the "@xCam\addons\" folder (only if you want to use these object packs).
+
+3. make sure that all the new pbo's are activated.
+
+4. create a new mission and insert the player unit.
+
+5. insert the game logic "xCam_Init" into your mission:
+   SIDE: Game Logic > CLASS: xCam > UNIT: xCam_Init
+
+6. start the mission and then start the xCam by using the action menu "Start X-Cam".
+
+7. All the next steps are explained within the first "xCam Tutorial Video": https://youtu.be/QFuLeBebc7U
+
+============================================================================================================
+
+X-Cam Homepage:  http://www.x-cam-editor.de/
+X-Cam Tutorials: http://www.x-cam-editor.de/home/x-cam-tutorial-videos/
+
+============================================================================================================
+
+make_file.dll(Killzone_Kid):http://killzonekid.com/arma-extension-make_file-dll-v1-0/
+iniDBI(code34): http://forums.bistudio.com/showthread.php?167927
+
+============================================================================================================

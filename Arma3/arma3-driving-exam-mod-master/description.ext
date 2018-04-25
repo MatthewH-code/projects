@@ -1,0 +1,21 @@
+author = "foobarto";
+onLoadName = "Driving License Exam";
+onLoadMission = "Attempt to pass the driving license exam";
+joinUnassigned = 1;
+respawn = BASE;
+respawndelay = 10;
+disabledAI = true;
+disableChannels[]={0,1,2};
+
+class Header
+{
+	gameType = RPG;
+	minPlayers = 1;
+	maxPlayers = 75;
+};
+
+
+class CfgFunctions
+{
+        #include "vehexam\functions.hpp"
+};
